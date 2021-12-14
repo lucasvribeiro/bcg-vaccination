@@ -1,0 +1,1204 @@
+{
+    "data": [
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "93.5606060606061"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "79.3650793650794"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "86.6666666666667"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "99.6632996632997"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "93.4065934065934"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "85.1926977687627"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "80.6818181818182"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "74.6031746031746"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "61.1111111111111"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "81.1447811447811"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "76.8361581920904"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "93.7984496124031"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "94.5054945054945"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "81.3387423935091"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "82.5757575757576"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "77.5423728813559"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "77.9359430604982"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "94.2196531791908"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "39.6825396825397"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "57.2222222222222"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "54.5454545454545"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "94.7761194029851"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "75.5244755244755"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "75.7062146892655"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "56.5891472868217"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "50.5494505494505"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2012",
+            "cob_vac_bcg": "94.5686900958466"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "85.5123674911661"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "59.1269841269841"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "33.4494773519164"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "5.22875816993464"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "36.1031518624642"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "12.4137931034483"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "33"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "9.06148867313916"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "47.8005865102639"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "68.9895470383275"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "22.9381443298969"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "19.5121951219512"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "13.4831460674157"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2013",
+            "cob_vac_bcg": "52.5885558583106"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "49.6666666666667"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "47.7272727272727"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "44.2307692307692"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "4.44444444444444"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "25.8823529411765"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "16.6666666666667"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "23.121387283237"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "10.7407407407407"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "57.9937304075235"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "52.2935779816514"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "46.2085308056872"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "23.2758620689655"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "4.76190476190476"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2014",
+            "cob_vac_bcg": "81.0185185185185"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "75.5"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "51.3157894736842"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "41.1585365853659"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "4.47761194029851"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "10.6132075471698"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "32.4503311258278"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "32.8767123287671"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "8.59598853868195"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "50.261780104712"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "60.3399433427762"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "38.3333333333333"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "18.75"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2015",
+            "cob_vac_bcg": "83.1168831168831"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "68.3274021352313"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "50.1683501683502"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "25.2307692307692"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "3.59116022099448"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "14.030612244898"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "37.012987012987"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "15.3846153846154"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "4.34782608695652"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "47.6063829787234"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "89.0532544378698"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "37.6068376068376"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "56.7164179104478"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2016",
+            "cob_vac_bcg": "61.9565217391304"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "37.9003558718861"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "95.3846153846154"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "67.6795580110497"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "62.2448979591837"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "69.4805194805195"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "66.2207357859532"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "99.468085106383"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "76.0683760683761"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2017",
+            "cob_vac_bcg": "97.8260869565217"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "75.2717391304348"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "89.7260273972603"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "93.0769230769231"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "78.7375415282392"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "66.3461538461538"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400050",
+            "nomemun": "Alto Alegre",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "73.9543726235741"
+        },
+        {
+            "id_munic": "1400027",
+            "nomemun": "Amajari",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "75.2112676056338"
+        },
+        {
+            "id_munic": "1400100",
+            "nomemun": "Boa Vista",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400159",
+            "nomemun": "Bonfim",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "98.6737400530504"
+        },
+        {
+            "id_munic": "1400175",
+            "nomemun": "Cant�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "95.7386363636364"
+        },
+        {
+            "id_munic": "1400209",
+            "nomemun": "Caracara�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "64.6191646191646"
+        },
+        {
+            "id_munic": "1400233",
+            "nomemun": "Caroebe",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400282",
+            "nomemun": "Iracema",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "87.6623376623377"
+        },
+        {
+            "id_munic": "1400308",
+            "nomemun": "Mucaja�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "94.8220064724919"
+        },
+        {
+            "id_munic": "1400407",
+            "nomemun": "Normandia",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "78.5542168674699"
+        },
+        {
+            "id_munic": "1400456",
+            "nomemun": "Pacaraima",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1400472",
+            "nomemun": "Rorain�polis",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "58.259325044405"
+        },
+        {
+            "id_munic": "1400506",
+            "nomemun": "S�o Jo�o da Baliza",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "35.2459016393443"
+        },
+        {
+            "id_munic": "1400605",
+            "nomemun": "S�o Luiz",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "47.1698113207547"
+        },
+        {
+            "id_munic": "1400704",
+            "nomemun": "Uiramut�",
+            "id_estado": "14",
+            "estado_abrev": "RR",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        }
+    ]
+}

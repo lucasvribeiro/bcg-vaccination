@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2011",
+            "cob_vac_bcg": "98.3860687457318"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2015",
+            "cob_vac_bcg": "78.2740569323058"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2017",
+            "cob_vac_bcg": "93.6063958435974"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2018",
+            "cob_vac_bcg": "89.4961571306576"
+        },
+        {
+            "id_munic": "5300108",
+            "nomemun": "Bras�lia",
+            "id_estado": "53",
+            "estado_abrev": "DF",
+            "ano": "2019",
+            "cob_vac_bcg": "93.2417878298331"
+        }
+    ]
+}

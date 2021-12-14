@@ -1,0 +1,6324 @@
+{
+    "data": [
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "98.8805970149254"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "44.7368421052632"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "71.8274111675127"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "71.7741935483871"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "80.9160305343512"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "64.3835616438356"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "73.5449735449735"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "77.1428571428571"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "82.6086956521739"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "93.7931034482759"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "84.2105263157895"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "78.3068783068783"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "43.5064935064935"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "97.2111553784861"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "51.3513513513514"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "93.1558935361217"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "85.8333333333333"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "41.6666666666667"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "95.9090909090909"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "63.3802816901408"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "81.981981981982"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "18.1818181818182"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "89.4378194207836"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "30.5"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "80.2816901408451"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "NA"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "85.6858846918489"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "89.4736842105263"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "86.8686868686869"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "59.8726114649682"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "99.8098859315589"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "60.3448275862069"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "85.4166666666667"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "60.377358490566"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "93.75"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "56.25"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "84.0182648401827"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "92.3512747875354"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "97.7695167286245"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "88.135593220339"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "70.2127659574468"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "50.8108108108108"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "95.8128078817734"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2010",
+            "cob_vac_bcg": "98.4615384615385"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "96.6417910447761"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "97.3684210526316"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "98.1308411214953"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "99.746192893401"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "87.0967741935484"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "93.8931297709924"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "97.0149253731343"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "98.7577639751553"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "56.1643835616438"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "98.9304812834225"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "47.6190476190476"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "64.7619047619048"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "96.2068965517241"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "81.5789473684211"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "80.9523809523809"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "51.9480519480519"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "96.4143426294821"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "78.3783783783784"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "98.3333333333333"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "92.0634920634921"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "31.6666666666667"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "98.1818181818182"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "91.5492957746479"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "60.3603603603604"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "17.0087976539589"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "91.8918918918919"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "90.1192504258944"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "99.3047508690614"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "31"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "84.5070422535211"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "NA"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "93.859649122807"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "71.7171717171717"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "71.656050955414"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "63.7931034482759"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "41.5094339622642"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "78.0487804878049"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "88.8020833333333"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "59375"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "78.0821917808219"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "87.9603399433428"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "77.9661016949153"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "97.8723404255319"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "35.6756756756757"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "91.4179104477612"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "78.9473684210526"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "72.0812182741117"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "75"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "84.0796019900498"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "67.7018633540373"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "73.972602739726"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "99.6987951807229"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "81.283422459893"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "89.344262295082"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "97.1098265895954"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "68.7830687830688"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "86.0834990059642"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "80.9523809523809"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "65.7894736842105"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "94.1780821917808"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "93.3723196881092"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "77.7777777777778"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "63.6363636363636"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "98.019801980198"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "86.8421052631579"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "82.8897338403042"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "72.5"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "84.9206349206349"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "82"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "38.3333333333333"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "86.1363636363636"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "60.5633802816901"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "55.8558558558559"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "14.9560117302053"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "94.3781942078365"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "82.8282828282828"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "25"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "92.9577464788732"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "NA"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "68.986083499006"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "75.4385964912281"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "73.7373737373737"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "81.8471337579618"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "46.551724137931"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "85.7638888888889"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "54.7169811320755"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "97.1354166666667"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "43.75"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "80.365296803653"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "83.1444759206799"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "98.5130111524164"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "89.406779661017"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "40.5405405405405"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "86.5724381625442"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "94.9591280653951"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "29.0870488322718"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "83.3333333333333"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "81.1594202898551"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "88.3977900552486"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "67.7514792899408"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "59.7826086956522"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "38.6363636363636"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "93.3489827856025"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "94.4444444444444"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "81.1059907834101"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "82.6086956521739"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "96.4646464646465"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "80.5555555555556"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "25.3012048192771"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "93.9641109298532"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "52.9411764705882"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "87.1382636655948"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "NA"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "99.8087954110899"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "76.5957446808511"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "62.8571428571429"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "53.448275862069"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "72.1649484536082"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "70.4918032786885"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "98.932384341637"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "49.0322580645161"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "79.8479087452472"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "53.6523929471033"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "69.8830409356725"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "81.3186813186813"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "77.0833333333333"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "10.9756097560976"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "96.2264150943396"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "97.6331360946746"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "7.07964601769912"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "48.0769230769231"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "90"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "65.1162790697674"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "39.6011396011396"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "NA"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "59.9659284497445"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "97.7777777777778"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "41.7910447761194"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "87.6190476190476"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "42.2619047619048"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "59.7122302158273"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "63.4943181818182"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "73.0666666666667"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "19.5845697329377"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "54.320987654321"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "76.6233766233766"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "73.936170212766"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "96.0629921259843"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "96.9026548672566"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "59.2"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "54.1666666666667"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "43.1472081218274"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "43.8356164383562"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "68.5185185185185"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "53.7634408602151"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "89.6825396825397"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "95.6112852664577"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "72.1518987341772"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "90.8881199538639"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "83.3333333333333"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "87.5757575757576"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "93.1558935361217"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "87.5"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "7.01754385964912"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "NA"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "94.6666666666667"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "87.4813710879285"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "58.8571428571429"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "95.3869810353665"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "72.4696356275304"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "56.4537157757497"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "38.0410022779043"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "64.8148148148148"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "83.030303030303"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "5.47550432276657"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "38.8888888888889"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "22.5714285714286"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "63.1808278867102"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "79.6116504854369"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "61.5023474178404"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "64.7727272727273"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "52.2248243559719"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "30.7692307692308"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "53.0351437699681"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "56.5656565656566"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "82.5757575757576"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "67.1052631578947"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "56.8627450980392"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "57.7981651376147"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "51.7857142857143"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "63.963963963964"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "77.9255319148936"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "32.0652173913044"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "78.0487804878049"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "88.1318681318681"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "78.2608695652174"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "2.23880597014925"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "23.3009708737864"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "93.2773109243697"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "73.7864077669903"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "95.6429330499469"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "38.659793814433"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "57.0247933884297"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "88.7341772151899"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "78.6407766990291"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "0"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "82.4742268041237"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "94.3820224719101"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "79.3572311495674"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "60.9375"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "60.2777777777778"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "62.5"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "79.6296296296296"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "11.25"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "42.8571428571429"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "78.4791965566715"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "78.3783783783784"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "96.078431372549"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "5.68181818181818"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "94.0973930152484"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "52.6315789473684"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "83.0508474576271"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "50.3416856492027"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "87.2611464968153"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "99.3939393939394"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "74.3515850144092"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "90.224570673712"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "67.2955974842767"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "46.6666666666667"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "86.0566448801743"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "99.3197278911565"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "47.887323943662"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "80.6818181818182"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "69.2307692307692"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "91.4862204724409"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "71.2121212121212"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "75.7575757575758"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "96.5346534653465"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "72.5490196078431"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "93.5779816513761"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "75.5952380952381"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "77.4074074074074"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "14.1304347826087"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "56.0975609756098"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "81.3186813186813"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "88.3084577114428"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "96.3106796116505"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "58.6609989373007"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "69.5876288659794"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "77.961432506887"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "96.9620253164557"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "77.6699029126214"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "99.0769230769231"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "28.2447466007417"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "87.890625"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "29.7222222222222"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "80"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "96.9111969111969"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "61.1111111111111"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "87.5"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "81.4921090387374"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "83.4645669291339"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "95.4954954954955"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "75.5681818181818"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "97.7373339891786"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "96.484375"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "99.0963855421687"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "69.0026954177898"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "82.010582010582"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "90.2777777777778"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "80.9248554913295"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "59.1549295774648"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "97.9949874686717"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "81.1004784688995"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "47.7832512315271"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "97.9381443298969"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "42.1052631578947"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "88.1401617250674"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "53.6423841059603"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "94.757131842714"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "83.8709677419355"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "87.218045112782"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "93.6507936507936"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "52.1367521367521"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "92.3076923076923"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "79.1338582677165"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "33.9285714285714"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "86.5079365079365"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "98.191933240612"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "80.2919708029197"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "97.5155279503106"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "73.1707317073171"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "96.2025316455696"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "29.6875"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "80.248833592535"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "41.8181818181818"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "86.1016949152542"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "44.4444444444444"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "77.5075987841945"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "89.7674418604651"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "97.9591836734694"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "63.6363636363636"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2018",
+            "cob_vac_bcg": "94.8717948717949"
+        },
+        {
+            "id_munic": "5000203",
+            "nomemun": "�gua Clara",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "74.3670886075949"
+        },
+        {
+            "id_munic": "5000252",
+            "nomemun": "Alcin�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000609",
+            "nomemun": "Amambai",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000708",
+            "nomemun": "Anast�cio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "49.1803278688525"
+        },
+        {
+            "id_munic": "5000807",
+            "nomemun": "Anauril�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5000856",
+            "nomemun": "Ang�lica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "98.8372093023256"
+        },
+        {
+            "id_munic": "5000906",
+            "nomemun": "Ant�nio Jo�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5001003",
+            "nomemun": "Aparecida do Taboado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "63.8522427440633"
+        },
+        {
+            "id_munic": "5001102",
+            "nomemun": "Aquidauana",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "88.0184331797235"
+        },
+        {
+            "id_munic": "5001243",
+            "nomemun": "Aral Moreira",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "73.4939759036145"
+        },
+        {
+            "id_munic": "5001508",
+            "nomemun": "Bandeirantes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "34.4444444444444"
+        },
+        {
+            "id_munic": "5001904",
+            "nomemun": "Bataguassu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "89.5161290322581"
+        },
+        {
+            "id_munic": "5002001",
+            "nomemun": "Bataypor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "89.8305084745763"
+        },
+        {
+            "id_munic": "5002100",
+            "nomemun": "Bela Vista",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "77.8538812785388"
+        },
+        {
+            "id_munic": "5002159",
+            "nomemun": "Bodoquena",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "93.3823529411765"
+        },
+        {
+            "id_munic": "5002209",
+            "nomemun": "Bonito",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "86.6492146596859"
+        },
+        {
+            "id_munic": "5002308",
+            "nomemun": "Brasil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002407",
+            "nomemun": "Caarap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002605",
+            "nomemun": "Camapu�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "48.6338797814208"
+        },
+        {
+            "id_munic": "5002704",
+            "nomemun": "Campo Grande",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5002803",
+            "nomemun": "Caracol",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "86.9565217391304"
+        },
+        {
+            "id_munic": "5002902",
+            "nomemun": "Cassil�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "85.2"
+        },
+        {
+            "id_munic": "5002951",
+            "nomemun": "Chapad�o do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "94.0639269406393"
+        },
+        {
+            "id_munic": "5003108",
+            "nomemun": "Corguinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "30.2325581395349"
+        },
+        {
+            "id_munic": "5003157",
+            "nomemun": "Coronel Sapucaia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003207",
+            "nomemun": "Corumb�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "80.2966101694915"
+        },
+        {
+            "id_munic": "5003256",
+            "nomemun": "Costa Rica",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003306",
+            "nomemun": "Coxim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "83.6555360281195"
+        },
+        {
+            "id_munic": "5003454",
+            "nomemun": "Deod�polis",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "73.6842105263158"
+        },
+        {
+            "id_munic": "5003488",
+            "nomemun": "Dois Irm�os do Buriti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "35.9756097560976"
+        },
+        {
+            "id_munic": "5003504",
+            "nomemun": "Douradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003702",
+            "nomemun": "Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "91.7444364680546"
+        },
+        {
+            "id_munic": "5003751",
+            "nomemun": "Eldorado",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5003801",
+            "nomemun": "F�tima do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "91.0299003322259"
+        },
+        {
+            "id_munic": "5003900",
+            "nomemun": "Figueir�o",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "91.1764705882353"
+        },
+        {
+            "id_munic": "5004007",
+            "nomemun": "Gl�ria de Dourados",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "97.6744186046512"
+        },
+        {
+            "id_munic": "5004106",
+            "nomemun": "Guia Lopes da Laguna",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004304",
+            "nomemun": "Iguatemi",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "84.2323651452282"
+        },
+        {
+            "id_munic": "5004403",
+            "nomemun": "Inoc�ncia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004502",
+            "nomemun": "Itapor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5004601",
+            "nomemun": "Itaquira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "59.6363636363636"
+        },
+        {
+            "id_munic": "5004700",
+            "nomemun": "Ivinhema",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "87.3096446700508"
+        },
+        {
+            "id_munic": "5004809",
+            "nomemun": "Japor�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "64.8351648351648"
+        },
+        {
+            "id_munic": "5004908",
+            "nomemun": "Jaraguari",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "27.0833333333333"
+        },
+        {
+            "id_munic": "5005004",
+            "nomemun": "Jardim",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "59.5294117647059"
+        },
+        {
+            "id_munic": "5005103",
+            "nomemun": "Jate�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005152",
+            "nomemun": "Juti",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005202",
+            "nomemun": "Lad�rio",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "67.5"
+        },
+        {
+            "id_munic": "5005251",
+            "nomemun": "Laguna Carap�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "65.8914728682171"
+        },
+        {
+            "id_munic": "5005400",
+            "nomemun": "Maracaju",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "89.5069532237674"
+        },
+        {
+            "id_munic": "5005608",
+            "nomemun": "Miranda",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "81.5837937384899"
+        },
+        {
+            "id_munic": "5005681",
+            "nomemun": "Mundo Novo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5005707",
+            "nomemun": "Navira�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "82.8571428571429"
+        },
+        {
+            "id_munic": "5005806",
+            "nomemun": "Nioaque",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "85.8757062146893"
+        },
+        {
+            "id_munic": "5006002",
+            "nomemun": "Nova Alvorada do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "65.8385093167702"
+        },
+        {
+            "id_munic": "5006200",
+            "nomemun": "Nova Andradina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "95.9493670886076"
+        },
+        {
+            "id_munic": "5006259",
+            "nomemun": "Novo Horizonte do Sul",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "74.3589743589744"
+        },
+        {
+            "id_munic": "5006275",
+            "nomemun": "Para�so das �guas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "96.551724137931"
+        },
+        {
+            "id_munic": "5006309",
+            "nomemun": "Parana�ba",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006358",
+            "nomemun": "Paranhos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5006408",
+            "nomemun": "Pedro Gomes",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "89.010989010989"
+        },
+        {
+            "id_munic": "5006606",
+            "nomemun": "Ponta Por�",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "89.390386869871"
+        },
+        {
+            "id_munic": "5006903",
+            "nomemun": "Porto Murtinho",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "81.5686274509804"
+        },
+        {
+            "id_munic": "5007109",
+            "nomemun": "Ribas do Rio Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "32.5966850828729"
+        },
+        {
+            "id_munic": "5007208",
+            "nomemun": "Rio Brilhante",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "77.2857142857143"
+        },
+        {
+            "id_munic": "5007307",
+            "nomemun": "Rio Negro",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "36.2068965517241"
+        },
+        {
+            "id_munic": "5007406",
+            "nomemun": "Rio Verde de Mato Grosso",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "78.6476868327402"
+        },
+        {
+            "id_munic": "5007505",
+            "nomemun": "Rochedo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "22.2222222222222"
+        },
+        {
+            "id_munic": "5007554",
+            "nomemun": "Santa Rita do Pardo",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "94.0476190476191"
+        },
+        {
+            "id_munic": "5007695",
+            "nomemun": "S�o Gabriel do Oeste",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "77.9831932773109"
+        },
+        {
+            "id_munic": "5007802",
+            "nomemun": "Selv�ria",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "57.8947368421053"
+        },
+        {
+            "id_munic": "5007703",
+            "nomemun": "Sete Quedas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "89.4409937888199"
+        },
+        {
+            "id_munic": "5007901",
+            "nomemun": "Sidrol�ndia",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "59.3451568894952"
+        },
+        {
+            "id_munic": "5007935",
+            "nomemun": "Sonora",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007950",
+            "nomemun": "Tacuru",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "5007976",
+            "nomemun": "Taquarussu",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "93.1818181818182"
+        },
+        {
+            "id_munic": "5008008",
+            "nomemun": "Terenos",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "22.093023255814"
+        },
+        {
+            "id_munic": "5008305",
+            "nomemun": "Tr�s Lagoas",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "86.0967590418037"
+        },
+        {
+            "id_munic": "5008404",
+            "nomemun": "Vicentina",
+            "id_estado": "50",
+            "estado_abrev": "MS",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        }
+    ]
+}

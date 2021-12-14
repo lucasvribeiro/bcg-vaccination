@@ -1,0 +1,6244 @@
+{
+    "data": [
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "93.573264781491"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "42.2764227642276"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "94.8717948717949"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "69.2528735632184"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "26.1261261261261"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "98.9079563182527"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "96.551724137931"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "80.8612440191388"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "82.9052559959177"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "91.2037037037037"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "83.8297872340426"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "68.2432432432432"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "87.2093023255814"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "54.2372881355932"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "82.4817518248175"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "97.6439790575916"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "20.1492537313433"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "20.3007518796992"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "93.6619718309859"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "97.3214285714286"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "63.8694638694639"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "41.0071942446043"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "76.8041237113402"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "65.3846153846154"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "95.8762886597938"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "51.063829787234"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "9.1743119266055"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "91.1290322580645"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "96.5648854961832"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "75.6756756756757"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "99.2272024729521"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "87.6237623762376"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "77.2321428571429"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "37.2093023255814"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "25.8215962441315"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "37.3015873015873"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "62"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "66.5441176470588"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "82.2368421052632"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "90.8172105111175"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "2.69058295964126"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "46.7680608365019"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "93.9"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "91.6868302799862"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "91.0714285714286"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "82.0512820512821"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "92.0308483290488"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "59.349593495935"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "85.632183908046"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "83.1325301204819"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "35.1351351351351"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "96.5678627145086"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "83.7320574162679"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "94.1146453478483"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "91.8981481481482"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "74.468085106383"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "80.4054054054054"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "47.2222222222222"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "98.8372093023256"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "95.4545454545455"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "40.6779661016949"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "94.8905109489051"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "96.9374167776298"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "17.910447761194"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "94.1558441558442"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "66.9172932330827"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "86.6071428571429"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "81.5850815850816"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "35.2517985611511"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "79.3814432989691"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "70.1923076923077"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "93.298969072165"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "11.4678899082569"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "98.3870967741936"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "93.3993399339934"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "90.4166666666667"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "61.6216216216216"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "98.4251968503937"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "86.3861386138614"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "87.0535714285714"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "31.7829457364341"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "21.1267605633803"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "32.5396825396825"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "80"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "97.0588235294118"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "91.6666666666667"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "90.2050113895216"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "82.9627490615074"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "2.01793721973094"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "38.0228136882129"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "78.6"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "75.8426966292135"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "92.6892499135845"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "90.745501285347"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "53.6585365853659"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "85.4700854700855"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "85.0574712643678"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "85.5421686746988"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "26.1261261261261"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "96.4102564102564"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "97.0358814352574"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "97.7011494252874"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "78.4688995215311"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "85.5077394114645"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "92.3611111111111"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "79.7297297297297"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "55.5555555555556"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "97.2727272727273"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "52.1186440677966"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "87.5912408759124"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "87.4833555259654"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "91.3888888888889"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "8.95522388059701"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "81.1688311688312"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "96.2121212121212"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "47.3684210526316"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "89.2857142857143"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "95.3379953379953"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "23.7410071942446"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "62.5"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "97.4226804123711"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "71.9148936170213"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "12.3853211009174"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "92.0792079207921"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "92.5"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "62.7027027027027"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "89.1089108910891"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "88.8392857142857"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "40.3100775193798"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "26.2910798122066"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "26.984126984127"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "78.6764705882353"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "90.7407407407407"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "85.1936218678815"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "95.7044673539519"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "93.2717297141207"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "5.60538116591928"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "27.3764258555133"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "44.6"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "82.5842696629213"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "84.4797787763567"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "96.4114832535885"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "85.3164556962025"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "41.5584415584416"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "57.2727272727273"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "85.8267716535433"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "98.206599713056"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "52.4193548387097"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "25.5813953488372"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "30.8219178082192"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "70.4724409448819"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "66.40625"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "61.3608748481166"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "8.78378378378378"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "38.3647798742138"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "82.6771653543307"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "43.4285714285714"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "81.6176470588235"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "85.2631578947368"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "59.8639455782313"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "41.8803418803419"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "59.3582887700535"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "14.6341463414634"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "69.811320754717"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "99.6309963099631"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "95.6678700361011"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "77.4193548387097"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "92.6020408163265"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "80.3030303030303"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "50.7246376811594"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "21.6666666666667"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "51.1627906976744"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "44.6043165467626"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "77.5193798449612"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "70.4081632653061"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "97.7547495682211"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "58.8709677419355"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "79.9865501008742"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "2.12264150943396"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "49.6062992125984"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "30.3201506591337"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "79.8245614035088"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "96.3636363636364"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "78.6906498136445"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "57.4468085106383"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "79.3478260869565"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "95.6403269754768"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "96.4949928469242"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "62.0689655172414"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "91.820987654321"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "28.2828282828283"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "78.4849991712249"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "24.4047619047619"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "76.7857142857143"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "91.358024691358"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "63.4538152610442"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "72.8070175438596"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "96.5591397849462"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "77.7920410783055"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "16.5605095541401"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "93.1034482758621"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "78.4722222222222"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "31.6666666666667"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "80.9859154929577"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "95.9183673469388"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "58.4"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "70.2970297029703"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "91.8032786885246"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "21.6374269005848"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "82.3529411764706"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "98.6885245901639"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "80.6324110671937"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "93.0379746835443"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "95.2802359882006"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "86.3509749303621"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "90.1754385964912"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "45.2941176470588"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "21.9298245614035"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "54"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "55.5555555555556"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "82.2878228782288"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "72.6315789473684"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "85.2173913043478"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "93.3862433862434"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "1.16822429906542"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "55.3648068669528"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "26.4227642276423"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "93.7469860151101"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "77.3809523809524"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "95.6521739130435"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "93.4065934065934"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "69.2660550458716"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "72.1634954193094"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "47.4025974025974"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "70.8955223880597"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "25.3807106598985"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "73.4009487976444"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "73.3924611973392"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "95.0354609929078"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "10.4294478527607"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "69.0909090909091"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "45.2054794520548"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "56.2992125984252"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "76.6666666666667"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "21.4285714285714"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "78.2608695652174"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "83.6734693877551"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "86.864406779661"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "99.2248062015504"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "58.2159624413146"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "65.4275092936803"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "44.7115384615385"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "58.3333333333333"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "72.2602739726027"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "83.7719298245614"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "85.4700854700855"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "84.8866498740554"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "93.006993006993"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "49.2"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "71.2"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "97.1428571428571"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "92.0168067226891"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "76.25"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "70.7964601769911"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "95.1309433002797"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "3.93013100436681"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "75.2895752895753"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "14.3248175182482"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "82.2398014580425"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "88.7434554973822"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "85.8267716535433"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "62.4"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "83.3333333333333"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "76.6004415011038"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "76.5748031496063"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "87.2727272727273"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "77.4436090225564"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "91.4141414141414"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "54.6511627906977"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "94.6899623158616"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "77.0238283099258"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "93.4042553191489"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "10.6145251396648"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "70.6896551724138"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "83.7209302325581"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "53.9419087136929"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "89.3805309734513"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "96.0352422907489"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "71.4285714285714"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "97.953216374269"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "20.2453987730061"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "89.4366197183099"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "95.1219512195122"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "79.6052631578947"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "93.0693069306931"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "92.3280423280423"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "84.5559845559846"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "57.6"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "81.6425120772947"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "82.1052631578947"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "85.8823529411765"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "93.3453237410072"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "65.0602409638554"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "97.3684210526316"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "99.0066225165563"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "48.5507246376812"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "74.468085106383"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "95.5645161290323"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "80.8785529715762"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "97.0027247956403"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "51.5337423312883"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "28.9795918367347"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "89.4039735099338"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "51.9685039370079"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "70.0704225352113"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "73.1277533039648"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "71.9745222929936"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "98.9690721649485"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "77.4424242424242"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "8.35164835164835"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "96.2264150943396"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "7.89007092198582"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "85.0877192982456"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "43.9801918910554"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "90.6698564593301"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "77.4509803921569"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "66.887417218543"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "52.8215223097113"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "71.5151515151515"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "82.3232323232323"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "63.7931034482759"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "75"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "92.9085303186023"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "58.9711219820104"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "97.6595744680851"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "57.5418994413408"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "77.5862068965517"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "83.2980972515856"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "78.0185758513932"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "52.6970954356846"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "69.9115044247788"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "95.1541850220264"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "77.3477518497439"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "83.4355828220859"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "99.3055555555556"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "84.8684210526316"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "88.8888888888889"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "83.011583011583"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "85.2631578947368"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "87.6470588235294"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "97.1223021582734"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "95.6140350877193"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "75.8278145695364"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "85.1063829787234"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "96.3709677419355"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "92.3469387755102"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "36.036036036036"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "93.28165374677"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "90.4907975460123"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "93.1818181818182"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "15.5102040816327"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "96.0264900662252"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "51.9685039370079"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "72.5352112676056"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "45.1541850220264"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "83.2152588555858"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "75.2577319587629"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "97.9030303030303"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "8.79120879120879"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "50.2659574468085"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "85.9649122807018"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "78.2894736842105"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "84.4939647168059"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "99.3710691823899"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "88.2352941176471"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "60"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "77.1428571428571"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "94.2148760330578"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "80.1324503311258"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "71.7142857142857"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "95.2380952380952"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "71.5025906735751"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "83.8621630842716"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "60"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "93.1718061674009"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "86.4285714285714"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "79.3859649122807"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "71.7741935483871"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "94.2627653471027"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "46.3235294117647"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "81.6793893129771"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "91.5384615384615"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "54.2662116040956"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "99.4949494949495"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "99.3103448275862"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "73.4287987271281"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "64.5569620253165"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "72.9779411764706"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "85.593220338983"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "61.1510791366906"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "90.1234567901235"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "87.6404494382023"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "91.1242603550296"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "89.3586005830904"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "67.6470588235294"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "99.4134897360704"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "77.6632302405498"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "87.3015873015873"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "46.3114754098361"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "76.6423357664234"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "58.1967213114754"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "62.4347826086956"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "73.758865248227"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "81.8181818181818"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "57.2151898734177"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "94.559730790802"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "68.8679245283019"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "68.4901531728665"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "93.4056007226739"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "97"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "42.713567839196"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200102",
+            "nomemun": "Afonso Cl�udio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200169",
+            "nomemun": "�gua Doce do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200136",
+            "nomemun": "�guia Branca",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "90625"
+        },
+        {
+            "id_munic": "3200201",
+            "nomemun": "Alegre",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "99.7448979591837"
+        },
+        {
+            "id_munic": "3200300",
+            "nomemun": "Alfredo Chaves",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200359",
+            "nomemun": "Alto Rio Novo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "75"
+        },
+        {
+            "id_munic": "3200409",
+            "nomemun": "Anchieta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200508",
+            "nomemun": "Apiac�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "80.6451612903226"
+        },
+        {
+            "id_munic": "3200607",
+            "nomemun": "Aracruz",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "82.0169252468265"
+        },
+        {
+            "id_munic": "3200706",
+            "nomemun": "Atilio Vivacqua",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3200805",
+            "nomemun": "Baixo Guandu",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "77.0685579196218"
+        },
+        {
+            "id_munic": "3200904",
+            "nomemun": "Barra de S�o Francisco",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "83.987915407855"
+        },
+        {
+            "id_munic": "3201001",
+            "nomemun": "Boa Esperan�a",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "81.6753926701571"
+        },
+        {
+            "id_munic": "3201100",
+            "nomemun": "Bom Jesus do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201159",
+            "nomemun": "Brejetuba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201209",
+            "nomemun": "Cachoeiro de Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "95.3683442742524"
+        },
+        {
+            "id_munic": "3201308",
+            "nomemun": "Cariacica",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "75.9605911330049"
+        },
+        {
+            "id_munic": "3201407",
+            "nomemun": "Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201506",
+            "nomemun": "Colatina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201605",
+            "nomemun": "Concei��o da Barra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "63.2558139534884"
+        },
+        {
+            "id_munic": "3201704",
+            "nomemun": "Concei��o do Castelo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3201803",
+            "nomemun": "Divino de S�o Louren�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "96.7213114754098"
+        },
+        {
+            "id_munic": "3201902",
+            "nomemun": "Domingos Martins",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "98.0769230769231"
+        },
+        {
+            "id_munic": "3202009",
+            "nomemun": "Dores do Rio Preto",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202108",
+            "nomemun": "Ecoporanga",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "80.2158273381295"
+        },
+        {
+            "id_munic": "3202207",
+            "nomemun": "Fund�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "86.5671641791045"
+        },
+        {
+            "id_munic": "3202256",
+            "nomemun": "Governador Lindenberg",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "67.7966101694915"
+        },
+        {
+            "id_munic": "3202306",
+            "nomemun": "Gua�u�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "99.5327102803738"
+        },
+        {
+            "id_munic": "3202405",
+            "nomemun": "Guarapari",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "84.3679458239278"
+        },
+        {
+            "id_munic": "3202454",
+            "nomemun": "Ibatiba",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202504",
+            "nomemun": "Ibira�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "71.6981132075472"
+        },
+        {
+            "id_munic": "3202553",
+            "nomemun": "Ibitirama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "81.8181818181818"
+        },
+        {
+            "id_munic": "3202603",
+            "nomemun": "Iconha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "77.5280898876404"
+        },
+        {
+            "id_munic": "3202652",
+            "nomemun": "Irupi",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3202702",
+            "nomemun": "Itagua�u",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "95.8904109589041"
+        },
+        {
+            "id_munic": "3202801",
+            "nomemun": "Itapemirim",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "96.7320261437908"
+        },
+        {
+            "id_munic": "3202900",
+            "nomemun": "Itarana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "98.0582524271845"
+        },
+        {
+            "id_munic": "3203007",
+            "nomemun": "I�na",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "80.9160305343512"
+        },
+        {
+            "id_munic": "3203056",
+            "nomemun": "Jaguar�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "85.9275053304904"
+        },
+        {
+            "id_munic": "3203106",
+            "nomemun": "Jer�nimo Monteiro",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203130",
+            "nomemun": "Jo�o Neiva",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "84.020618556701"
+        },
+        {
+            "id_munic": "3203163",
+            "nomemun": "Laranja da Terra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203205",
+            "nomemun": "Linhares",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "82.1711568938193"
+        },
+        {
+            "id_munic": "3203304",
+            "nomemun": "Manten�polis",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "59.1954022988506"
+        },
+        {
+            "id_munic": "3203320",
+            "nomemun": "Marata�zes",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3203346",
+            "nomemun": "Marechal Floriano",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "81.4516129032258"
+        },
+        {
+            "id_munic": "3203353",
+            "nomemun": "Maril�ndia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "71.5384615384615"
+        },
+        {
+            "id_munic": "3203403",
+            "nomemun": "Mimoso do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "93.6026936026936"
+        },
+        {
+            "id_munic": "3203502",
+            "nomemun": "Montanha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "81.1808118081181"
+        },
+        {
+            "id_munic": "3203601",
+            "nomemun": "Mucurici",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "44.5652173913044"
+        },
+        {
+            "id_munic": "3203700",
+            "nomemun": "Muniz Freire",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "98.0769230769231"
+        },
+        {
+            "id_munic": "3203809",
+            "nomemun": "Muqui",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "99.3788819875776"
+        },
+        {
+            "id_munic": "3203908",
+            "nomemun": "Nova Ven�cia",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "80.1724137931034"
+        },
+        {
+            "id_munic": "3204005",
+            "nomemun": "Pancas",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "86.4864864864865"
+        },
+        {
+            "id_munic": "3204054",
+            "nomemun": "Pedro Can�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "78.0564263322884"
+        },
+        {
+            "id_munic": "3204104",
+            "nomemun": "Pinheiros",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "76.5171503957784"
+        },
+        {
+            "id_munic": "3204203",
+            "nomemun": "Pi�ma",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "86.5443425076453"
+        },
+        {
+            "id_munic": "3204252",
+            "nomemun": "Ponto Belo",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "72.6190476190476"
+        },
+        {
+            "id_munic": "3204302",
+            "nomemun": "Presidente Kennedy",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204351",
+            "nomemun": "Rio Bananal",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204401",
+            "nomemun": "Rio Novo do Sul",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204500",
+            "nomemun": "Santa Leopoldina",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "56.0810810810811"
+        },
+        {
+            "id_munic": "3204559",
+            "nomemun": "Santa Maria de Jetib�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "92.5619834710744"
+        },
+        {
+            "id_munic": "3204609",
+            "nomemun": "Santa Teresa",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3204658",
+            "nomemun": "S�o Domingos do Norte",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "80.8080808080808"
+        },
+        {
+            "id_munic": "3204708",
+            "nomemun": "S�o Gabriel da Palha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "60.7317073170732"
+        },
+        {
+            "id_munic": "3204807",
+            "nomemun": "S�o Jos� do Cal�ado",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "91.8367346938775"
+        },
+        {
+            "id_munic": "3204906",
+            "nomemun": "S�o Mateus",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "85.543369890329"
+        },
+        {
+            "id_munic": "3204955",
+            "nomemun": "S�o Roque do Cana�",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "75.7894736842105"
+        },
+        {
+            "id_munic": "3205002",
+            "nomemun": "Serra",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "87.8799296659131"
+        },
+        {
+            "id_munic": "3205010",
+            "nomemun": "Sooretama",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "84.8101265822785"
+        },
+        {
+            "id_munic": "3205036",
+            "nomemun": "Vargem Alta",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205069",
+            "nomemun": "Venda Nova do Imigrante",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "3205101",
+            "nomemun": "Viana",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "87.9231473010064"
+        },
+        {
+            "id_munic": "3205150",
+            "nomemun": "Vila Pav�o",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "69.5238095238095"
+        },
+        {
+            "id_munic": "3205176",
+            "nomemun": "Vila Val�rio",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "87.3096446700508"
+        },
+        {
+            "id_munic": "3205200",
+            "nomemun": "Vila Velha",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "80.7833357782016"
+        },
+        {
+            "id_munic": "3205309",
+            "nomemun": "Vit�ria",
+            "id_estado": "32",
+            "estado_abrev": "ES",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        }
+    ]
+}

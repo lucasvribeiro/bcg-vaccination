@@ -1,0 +1,1764 @@
+{
+    "data": [
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "42.962962962963"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "55.3571428571429"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "90.5660377358491"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "49.746192893401"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "95.8490566037736"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "96.4679911699779"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "82.4175824175824"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "94.3952802359882"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "47.1976401179941"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "85.9188544152745"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "77.3897058823529"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "85.781990521327"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "95.3443258971872"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "72.3463687150838"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2010",
+            "cob_vac_bcg": "93.6026936026936"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "39.2592592592593"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "64.8809523809524"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "40.251572327044"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "68.5279187817259"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "82.6415094339623"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "99.5495495495496"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "91.3907284768212"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "96.7032967032967"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "42.7728613569322"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "34.5132743362832"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "67.7804295942721"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "42.0955882352941"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "65.3631284916201"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "99.9192245557351"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2011",
+            "cob_vac_bcg": "85.1851851851852"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "25.9259259259259"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "42.5595238095238"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "90.4458598726115"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "65.4088050314465"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "8.62944162436548"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "76.6037735849057"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "36.283185840708"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "15.0442477876106"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "41.2887828162291"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "74.0808823529412"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "92.1435499515034"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "19.5530726256983"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "93.9418416801292"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2012",
+            "cob_vac_bcg": "61.952861952862"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "99.3055555555556"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "29.0697674418605"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "98.876404494382"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "91.8367346938775"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "3.38164251207729"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "99.5135135135135"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "68.3870967741936"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "78.8013318534961"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "92.9460580912863"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "87.8850102669405"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "64.0625"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "86.7889908256881"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "41.5384615384615"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "14.2061281337047"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "85.5524079320113"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "76.2931034482759"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "82.4561403508772"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "78.214971209213"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "67.1171171171171"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2013",
+            "cob_vac_bcg": "49.0853658536585"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "44.6640316205534"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "21.5596330275229"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "92.4242424242424"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "85.0746268656716"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "43.9716312056738"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "45.9489456159822"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "74.2537313432836"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "41.9689119170984"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "61.9607843137255"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "50.5307855626327"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "14.4475920679887"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "10.7246376811594"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "87.2403560830861"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "64.4012944983819"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "12.1212121212121"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2014",
+            "cob_vac_bcg": "44.3729903536978"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "39.2996108949416"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "46.6666666666667"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "20.7272727272727"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "73.4434561626429"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "59.409594095941"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "52.6548672566372"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "44.8851774530271"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "37.9204892966361"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "12.707182320442"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "95.8563535911602"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "92.3162583518931"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "18.4834123222749"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2015",
+            "cob_vac_bcg": "35.3741496598639"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "10.8208955223881"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "53.3678756476684"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "69.1042047531993"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "58.6776859504132"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "64.5299145299145"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "89.873417721519"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "43.8931297709924"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "88.8616891064871"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "90.0355871886121"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "89.3462469733656"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "58.8477366255144"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "68.5185185185185"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "18.3229813664596"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "1.90735694822888"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "99.5918367346939"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "67.4757281553398"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "4.42477876106195"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2016",
+            "cob_vac_bcg": "47.0588235294118"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "32.4626865671642"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "94.8186528497409"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "82.2669104204753"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "29.0598290598291"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "79.5266923500275"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "95.8015267175573"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "85.1897184822521"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "88.6120996441281"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "89.1041162227603"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "67.9012345679012"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "30.1242236024845"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "23.1607629427793"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "93.8931297709924"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "85.0828729281768"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "25.4424778761062"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2017",
+            "cob_vac_bcg": "45.7516339869281"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "38.2882882882883"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "97.7551020408163"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "65.7258064516129"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "29.3814432989691"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "69.2592592592593"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "99.7587454764777"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "76.9230769230769"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "49.5762711864407"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "42.7728613569322"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "19.7183098591549"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "96.943231441048"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "37.8048780487805"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "79.3071161048689"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2018",
+            "cob_vac_bcg": "50"
+        },
+        {
+            "id_munic": "1200013",
+            "nomemun": "Acrel�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "36.71875"
+        },
+        {
+            "id_munic": "1200054",
+            "nomemun": "Assis Brasil",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "79.8387096774194"
+        },
+        {
+            "id_munic": "1200104",
+            "nomemun": "Brasil�ia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "86.6666666666667"
+        },
+        {
+            "id_munic": "1200138",
+            "nomemun": "Bujari",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "24.4299674267101"
+        },
+        {
+            "id_munic": "1200179",
+            "nomemun": "Capixaba",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "20.1646090534979"
+        },
+        {
+            "id_munic": "1200203",
+            "nomemun": "Cruzeiro do Sul",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "85.332541567696"
+        },
+        {
+            "id_munic": "1200252",
+            "nomemun": "Epitaciol�ndia",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "78.6941580756014"
+        },
+        {
+            "id_munic": "1200302",
+            "nomemun": "Feij�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "85.594237695078"
+        },
+        {
+            "id_munic": "1200328",
+            "nomemun": "Jord�o",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "61.2781954887218"
+        },
+        {
+            "id_munic": "1200336",
+            "nomemun": "M�ncio Lima",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200344",
+            "nomemun": "Manoel Urbano",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "32.5670498084291"
+        },
+        {
+            "id_munic": "1200351",
+            "nomemun": "Marechal Thaumaturgo",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200385",
+            "nomemun": "Pl�cido de Castro",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "25.2459016393443"
+        },
+        {
+            "id_munic": "1200807",
+            "nomemun": "Porto Acre",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "10.4651162790698"
+        },
+        {
+            "id_munic": "1200393",
+            "nomemun": "Porto Walter",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "85.1063829787234"
+        },
+        {
+            "id_munic": "1200401",
+            "nomemun": "Rio Branco",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200427",
+            "nomemun": "Rodrigues Alves",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "85.792349726776"
+        },
+        {
+            "id_munic": "1200435",
+            "nomemun": "Santa Rosa do Purus",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "1200500",
+            "nomemun": "Sena Madureira",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1200450",
+            "nomemun": "Senador Guiomard",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "24.0506329113924"
+        },
+        {
+            "id_munic": "1200609",
+            "nomemun": "Tarauac�",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "78.7985865724382"
+        },
+        {
+            "id_munic": "1200708",
+            "nomemun": "Xapuri",
+            "id_estado": "12",
+            "estado_abrev": "AC",
+            "ano": "2019",
+            "cob_vac_bcg": "45.5737704918033"
+        }
+    ]
+}

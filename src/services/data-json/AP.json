@@ -1,0 +1,1284 @@
+{
+    "data": [
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "90.4761904761905"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "40.2597402597403"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "54.6916890080429"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "87.984496124031"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "83.3333333333333"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "67.5675675675676"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "94.3396226415094"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2010",
+            "cob_vac_bcg": "81.9494584837545"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "78.5714285714286"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "92"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "86.5853658536585"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "61.038961038961"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "97.9083665338645"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "53.3512064343164"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "83.4269662921348"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "64.3410852713178"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "80.9523809523809"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "71.6216216216216"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "56.2264150943396"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2011",
+            "cob_vac_bcg": "71.1191335740072"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "79.3388429752066"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "86.1904761904762"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "70.6666666666667"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "90.2439024390244"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "89.6103896103896"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "94.9203187250996"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "52.2788203753351"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "88.4831460674157"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "10.8527131782946"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "78.3783783783784"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2012",
+            "cob_vac_bcg": "63.5379061371841"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "94.1935483870968"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "83.7696335078534"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "57.1428571428571"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "58.1907090464548"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "63.1469979296066"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "47.3404255319149"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "44.7368421052632"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "73.0769230769231"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "63.6904761904762"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "18.6274509803922"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "25.990099009901"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "91.9421487603306"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "59.1397849462366"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "45.5737704918033"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "35.5263157894737"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "70.1298701298701"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "94.1558441558442"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "71.3541666666667"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "13.9130434782609"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "28.5714285714286"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "76.8463073852295"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "73.943661971831"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "57.4780058651026"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "37.9746835443038"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "97.7272727272727"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2015",
+            "cob_vac_bcg": "88.9705882352941"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "82.9787234042553"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "76.2886597938144"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "76.25"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "47.3118279569892"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "17.7966101694915"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "33.5697399527187"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "99.2424242424242"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "49.0842490842491"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "29.9065420560748"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "37.1428571428571"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "27.3972602739726"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "54.6099290780142"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "61.2903225806452"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "64.406779661017"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "98.0474340625639"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "72.5768321513002"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "80.6818181818182"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "91.9413919413919"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "64.4859813084112"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "75.9071729957806"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "72.6027397260274"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2017",
+            "cob_vac_bcg": "98.9051094890511"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "65.1933701657459"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "64.6288209606987"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "83.5125448028674"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "97.554347826087"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "90.9090909090909"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "76.8547312305642"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600105",
+            "nomemun": "Amap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600204",
+            "nomemun": "Cal�oene",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600212",
+            "nomemun": "Cutias",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "75.4716981132076"
+        },
+        {
+            "id_munic": "1600238",
+            "nomemun": "Ferreira Gomes",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "87.1951219512195"
+        },
+        {
+            "id_munic": "1600253",
+            "nomemun": "Itaubal",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "94.1666666666667"
+        },
+        {
+            "id_munic": "1600279",
+            "nomemun": "Laranjal do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600303",
+            "nomemun": "Macap�",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "99.3958355809688"
+        },
+        {
+            "id_munic": "1600402",
+            "nomemun": "Mazag�o",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "83.3333333333333"
+        },
+        {
+            "id_munic": "1600501",
+            "nomemun": "Oiapoque",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "86.5350089766607"
+        },
+        {
+            "id_munic": "1600154",
+            "nomemun": "Pedra Branca do Amapari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "92.6470588235294"
+        },
+        {
+            "id_munic": "1600535",
+            "nomemun": "Porto Grande",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "93.9240506329114"
+        },
+        {
+            "id_munic": "1600550",
+            "nomemun": "Pracu�ba",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "76.25"
+        },
+        {
+            "id_munic": "1600600",
+            "nomemun": "Santana",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "98.4460694698355"
+        },
+        {
+            "id_munic": "1600055",
+            "nomemun": "Serra do Navio",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600709",
+            "nomemun": "Tartarugalzinho",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1600808",
+            "nomemun": "Vit�ria do Jari",
+            "id_estado": "16",
+            "estado_abrev": "AP",
+            "ano": "2019",
+            "cob_vac_bcg": "81.3868613138686"
+        }
+    ]
+}

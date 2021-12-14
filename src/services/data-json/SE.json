@@ -1,0 +1,6004 @@
+{
+    "data": [
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "97.2972972972973"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "76.4150943396226"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "90.8505418114905"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "80.4651162790698"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "89.7526501766784"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "91.3875598086124"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "95.9134615384615"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "86.2745098039216"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "82.7586206896552"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "93.3682373472949"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "91.740412979351"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "90.7063197026022"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "92.5373134328358"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "99.6644295302013"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "76.9230769230769"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "80.8219178082192"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "97.4494283201407"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "79.7979797979798"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "86.4406779661017"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "81.6568047337278"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "80.9523809523809"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "82.6086956521739"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "87.8787878787879"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "86.2385321100917"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "68.4210526315789"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "93.2862190812721"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "88.1294964028777"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "90.0452488687783"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "93.0515759312321"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "95.3846153846154"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "93.9393939393939"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "71.2643678160919"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "87.888198757764"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "97.2602739726027"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "80.9160305343512"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "63.5593220338983"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "93.8144329896907"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "95.9016393442623"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "93.6920222634508"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "80.8153477218225"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "92.1348314606742"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "77.0976616231087"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "92.6108374384236"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "64.8275862068966"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "95.7894736842105"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "61.0169491525424"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "99.6389891696751"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "80.064308681672"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "83.4061135371179"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "91.7763157894737"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "80.8823529411765"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "80.3088803088803"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "84.7583643122677"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "88.6446886446886"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "77.7777777777778"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "83.2512315270936"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "86.4179104477612"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "95.2702702702703"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "71.9298245614035"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "96.4705882352941"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2010",
+            "cob_vac_bcg": "93.7799043062201"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "97.2972972972973"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "94.3396226415094"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "80.9302325581395"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "96.1538461538462"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "84.3137254901961"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "77.0114942528736"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "92.1465968586387"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "92.5373134328358"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "78.8461538461538"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "82.8282828282828"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "86.9822485207101"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "92.8571428571429"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "68.4782608695652"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "84.8484848484848"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "98.4709480122324"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "96.2686567164179"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "96.2897526501767"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "98.7822349570201"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "84.1758241758242"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "85.8585858585859"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "82.7586206896552"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "80.6282722513089"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "99.3788819875776"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "91.0958904109589"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "91.6030534351145"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "70.3389830508475"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "88.659793814433"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "98.3606557377049"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "89.0538033395176"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "93.0455635491607"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "98.876404494382"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "93.9133425034388"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "98.5221674876847"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "71.0344827586207"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "83.6158192090395"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "96.3898916967509"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "89.7106109324759"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "96.2882096069869"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "91.6666666666667"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "80.6949806949807"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "93.3085501858736"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "98.1132075471698"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "89.1625615763547"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "98.8805970149254"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "98.6486486486486"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "68.4210526315789"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "95.2941176470588"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2011",
+            "cob_vac_bcg": "90.6698564593301"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "75.6756756756757"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "86.1635220125786"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "97.4749539971376"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "76.7441860465116"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "98.5645933014354"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "87.2596153846154"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "85.9477124183007"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "87.3563218390805"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "92.3333333333333"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "82.3008849557522"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "86.5771812080537"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "92.3076923076923"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "92.7880386983289"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "73.7373737373737"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "94.9152542372881"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "82.8402366863905"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "90.4761904761905"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "90.2173913043478"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "83.6363636363636"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "83.7920489296636"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "95.1153324287653"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "97.6666666666667"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "92.5795053003534"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "83.8129496402878"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "85.972850678733"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "96.919770773639"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "96.7032967032967"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "49.4252873563218"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "84.2931937172775"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "89.4409937888199"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "92.4657534246575"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "86.6412213740458"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "83.0508474576271"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "84.5360824742268"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "77.0491803278689"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "79.136690647482"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "61.7977528089888"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "81.7056396148556"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "86.6995073891626"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "86.2068965517241"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "93.6842105263158"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "84.180790960452"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "92.7797833935018"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "82.6366559485531"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "88.4868421052632"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "58.3333333333333"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "79.5366795366795"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "63.5838150289017"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "83.271375464684"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "83.5164835164835"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "85.7142857142857"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "83.9622641509434"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "81.2807881773399"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "80.9701492537313"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "86.2745098039216"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "56.7567567567568"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "77.1929824561404"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "93.7254901960784"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "94.0298507462687"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2012",
+            "cob_vac_bcg": "88.0382775119617"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "88.0952380952381"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "97.7930609731061"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "73.6842105263158"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "97.0099667774086"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "98.8584474885845"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "76.8079800498753"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "74.8251748251748"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "84.0579710144928"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "86.6459627329193"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "79.8365122615804"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "96.9798657718121"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "78.9772727272727"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "92.3076923076923"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "88.755364806867"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "89.5348837209302"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "96.652719665272"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "90"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "97.1631205673759"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "87.1875"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "97.7337110481586"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "91.8032786885246"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "85.3097345132743"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "77.115987460815"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "82.6086956521739"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "90.9922589725545"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "92.0430107526882"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "83.9650145772595"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "99.5918367346939"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "90.1808785529716"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "85.1851851851852"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "97.8260869565217"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "82.2784810126582"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "79.8136645962733"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "90.7239819004525"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "98.4581497797357"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "98.1132075471698"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "81.7204301075269"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "97.2477064220184"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "88.5869565217391"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "90.9420289855072"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "82.0512820512821"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "87.9310344827586"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "86.9109947643979"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "91.8486171761281"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "87.6623376623377"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "92.5373134328358"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "86.3013698630137"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "96.7787114845938"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "86.8932038834951"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2013",
+            "cob_vac_bcg": "96.1038961038961"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "52.8169014084507"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "91.6666666666667"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "93.4354485776805"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "85.678391959799"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "97.0802919708029"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "82.5938566552901"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "76.056338028169"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "97.2696245733788"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "95.1612903225806"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "98.6486486486486"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "87.6623376623377"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "91.0714285714286"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "96.8541468064824"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "84.7107438016529"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "78.8888888888889"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "85.2112676056338"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "93.3333333333333"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "88.7298747763864"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "91.5555555555556"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "85.9275053304904"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "89.6551724137931"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "64.7058823529412"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "89.171974522293"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "93.5483870967742"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "98.5074626865672"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "97.2222222222222"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "98.2758620689655"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "75.9259259259259"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "77.6923076923077"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "99.0196078431373"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "88.8679245283019"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "81.5789473684211"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "97.1302428256071"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "81.6393442622951"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "89.406779661017"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "98.8304093567251"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "88.28125"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "91.358024691358"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "85.4460093896714"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "99.2553983618764"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "74.2138364779874"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "85.7627118644068"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "57.8947368421053"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "96.5325936199723"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2014",
+            "cob_vac_bcg": "53.5802469135802"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "83.3333333333333"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "96.978021978022"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "94.2622950819672"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "77.9411764705882"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "85.9106529209622"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "93.4210526315789"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "83.9285714285714"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "84.3220338983051"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "97.1830985915493"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "96.3855421686747"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "96.7320261437908"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "95.983379501385"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "98.2731554160126"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "92.1875"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "87.2586872586873"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "86.9747899159664"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "97.5524475524475"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "99.3150684931507"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "90.7258064516129"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "68.8741721854305"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "87.1186440677966"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "66.6666666666667"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "92.9853181076672"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "75.2293577981651"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "98.3935742971887"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "92.5531914893617"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "92.4752475247525"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "89.7163120567376"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "96.1904761904762"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "94.1176470588235"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "73.2307692307692"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "86.6666666666667"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "91.4529914529915"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "93.9393939393939"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "60.8"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "80.0995024875622"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "97.1014492753623"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "75.3846153846154"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "97.5688816855754"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "95.3488372093023"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "75"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "95.6896551724138"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2015",
+            "cob_vac_bcg": "86.6028708133971"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "62.5"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "85.958689755894"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "88.75"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "88.2978723404255"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "82.0441988950276"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "96.1832061068702"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "95.5882352941177"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "81.5625"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "87.3417721518987"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "94.3217665615142"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "69.4915254237288"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "75.3086419753086"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "83.6538461538462"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "95.8677685950413"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "87.9746835443038"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "93.4931506849315"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "91.8088737201365"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "94.4193061840121"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "84.5195729537367"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "80.2768166089965"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "86.7298578199052"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "96.8536251709986"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "81.5126050420168"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "87.7777777777778"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "84.192439862543"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "89.8785425101215"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "84.3478260869565"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "89.9641577060932"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "90.990990990991"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "96.7391304347826"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "92.5"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "70.6422018348624"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "91.358024691358"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "90.9278350515464"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "97.8798586572438"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "84.7087378640777"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "82.9710144927536"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "79.7169811320755"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "89.7727272727273"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "64.7727272727273"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "70.9090909090909"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "74.869109947644"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "94.0919037199125"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "92.3076923076923"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "71.4285714285714"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "87.037037037037"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "88.7931034482759"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "82.3529411764706"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "89.8907103825137"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2016",
+            "cob_vac_bcg": "98.2843137254902"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "73.2142857142857"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "91.2998122261632"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "80"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "98.2269503546099"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "63.2596685082873"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "87.2193436960276"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "91.25"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "98.7341772151899"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "96.8454258675079"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "87.6543209876543"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "91.3461538461538"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "81.404958677686"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "97.4683544303797"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "52.9411764705882"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "91.7043740573152"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "91.8149466192171"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "95.7345971563981"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "95.3488372093023"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "67.2268907563025"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "69.0140845070423"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "81.1111111111111"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "94.1580756013746"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "73.5714285714286"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "73.2793522267206"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "97.3913043478261"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "94.6236559139785"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "87.3873873873874"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "96.4444444444444"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "76.4150943396226"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "50.4587155963303"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "68.904593639576"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "86.6504854368932"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "84.0172786177106"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "31.8840579710145"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "92.9245283018868"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "97.1264367816092"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "98.8636363636364"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "90.9090909090909"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "57.2727272727273"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "78.0104712041885"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "83.9533187454413"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "90.7692307692308"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "80.9523809523809"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "85.1851851851852"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "89.6551724137931"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "84.3137254901961"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "69.2307692307692"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "60.4743083003953"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "89.8550724637681"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "97.1311475409836"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "69.6969696969697"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "84.452296819788"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "55.9701492537313"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "71.830985915493"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "66.140350877193"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "61.3333333333333"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "76.7441860465116"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "54.9019607843137"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "82.258064516129"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "53.5714285714286"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "83.1730769230769"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "71.9424460431655"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "92.8571428571429"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "50"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "58.0152671755725"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "88.6029411764706"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "90.4605263157895"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "98.3050847457627"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "85.6088560885609"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "83.5616438356164"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "58.5858585858586"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "61.9158878504673"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "98.5714285714286"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "82.8729281767956"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "83.8461538461538"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "90.5172413793103"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "62.9464285714286"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "74.1573033707865"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "51.4388489208633"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "57.6923076923077"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "75.69573283859"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "86.2068965517241"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "62.3533246414602"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "61.7647058823529"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "49.5726495726496"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "95.8333333333333"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "85.4304635761589"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "72.0833333333333"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "60"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "79.4285714285714"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "60.4651162790698"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "38.8"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "75.1677852348993"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "89.1566265060241"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "55.3846153846154"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "80.0724637681159"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "55.5555555555556"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "49.0566037735849"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "66.2857142857143"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "63.2330827067669"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "97.65625"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "34.0909090909091"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "74.4186046511628"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "55.3333333333333"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "98.876404494382"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "71.4285714285714"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "59.3900481540931"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2018",
+            "cob_vac_bcg": "88.5085574572127"
+        },
+        {
+            "id_munic": "2800100",
+            "nomemun": "Amparo de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "71.7948717948718"
+        },
+        {
+            "id_munic": "2800209",
+            "nomemun": "Aquidab�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "80.0699300699301"
+        },
+        {
+            "id_munic": "2800308",
+            "nomemun": "Aracaju",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "93.8575209528011"
+        },
+        {
+            "id_munic": "2800407",
+            "nomemun": "Arau�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "83.7662337662338"
+        },
+        {
+            "id_munic": "2800506",
+            "nomemun": "Areia Branca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "80.9701492537313"
+        },
+        {
+            "id_munic": "2800605",
+            "nomemun": "Barra dos Coqueiros",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "99.6078431372549"
+        },
+        {
+            "id_munic": "2800670",
+            "nomemun": "Boquim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "83"
+        },
+        {
+            "id_munic": "2800704",
+            "nomemun": "Brejo Grande",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "76.5151515151515"
+        },
+        {
+            "id_munic": "2801009",
+            "nomemun": "Campo do Brito",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801108",
+            "nomemun": "Canhoba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "78.4615384615385"
+        },
+        {
+            "id_munic": "2801207",
+            "nomemun": "Canind� de S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "58.3473861720067"
+        },
+        {
+            "id_munic": "2801306",
+            "nomemun": "Capela",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "85.3747714808044"
+        },
+        {
+            "id_munic": "2801405",
+            "nomemun": "Carira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "66.4451827242525"
+        },
+        {
+            "id_munic": "2801504",
+            "nomemun": "Carm�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2801603",
+            "nomemun": "Cedro de S�o Jo�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "71.7948717948718"
+        },
+        {
+            "id_munic": "2801702",
+            "nomemun": "Cristin�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "86.4686468646865"
+        },
+        {
+            "id_munic": "2801900",
+            "nomemun": "Cumbe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "61.4035087719298"
+        },
+        {
+            "id_munic": "2802007",
+            "nomemun": "Divina Pastora",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "77.7777777777778"
+        },
+        {
+            "id_munic": "2802106",
+            "nomemun": "Est�ncia",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "82.8054298642534"
+        },
+        {
+            "id_munic": "2802205",
+            "nomemun": "Feira Nova",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "89.3617021276596"
+        },
+        {
+            "id_munic": "2802304",
+            "nomemun": "Frei Paulo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "75.4166666666667"
+        },
+        {
+            "id_munic": "2802403",
+            "nomemun": "Gararu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "67.7631578947368"
+        },
+        {
+            "id_munic": "2802502",
+            "nomemun": "General Maynard",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "94"
+        },
+        {
+            "id_munic": "2802601",
+            "nomemun": "Gracho Cardoso",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "77.5"
+        },
+        {
+            "id_munic": "2802700",
+            "nomemun": "Ilha das Flores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "77.8571428571429"
+        },
+        {
+            "id_munic": "2802809",
+            "nomemun": "Indiaroba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "95.7446808510638"
+        },
+        {
+            "id_munic": "2802908",
+            "nomemun": "Itabaiana",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "85.5571847507331"
+        },
+        {
+            "id_munic": "2803005",
+            "nomemun": "Itabaianinha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "86.7647058823529"
+        },
+        {
+            "id_munic": "2803104",
+            "nomemun": "Itabi",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803203",
+            "nomemun": "Itaporanga d'Ajuda",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "79.7227036395147"
+        },
+        {
+            "id_munic": "2803302",
+            "nomemun": "Japaratuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "76.3565891472868"
+        },
+        {
+            "id_munic": "2803401",
+            "nomemun": "Japoat�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "88.1773399014778"
+        },
+        {
+            "id_munic": "2803500",
+            "nomemun": "Lagarto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803609",
+            "nomemun": "Laranjeiras",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "67.9911699779249"
+        },
+        {
+            "id_munic": "2803708",
+            "nomemun": "Macambira",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "93.0555555555556"
+        },
+        {
+            "id_munic": "2803807",
+            "nomemun": "Malhada dos Bois",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2803906",
+            "nomemun": "Malhador",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "56.8181818181818"
+        },
+        {
+            "id_munic": "2804003",
+            "nomemun": "Maruim",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "70.2508960573477"
+        },
+        {
+            "id_munic": "2804102",
+            "nomemun": "Moita Bonita",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "80.9523809523809"
+        },
+        {
+            "id_munic": "2804201",
+            "nomemun": "Monte Alegre de Sergipe",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "72.0338983050847"
+        },
+        {
+            "id_munic": "2804300",
+            "nomemun": "Muribeca",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "87.6190476190476"
+        },
+        {
+            "id_munic": "2804409",
+            "nomemun": "Ne�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "66.3900414937759"
+        },
+        {
+            "id_munic": "2804458",
+            "nomemun": "Nossa Senhora Aparecida",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "57.6923076923077"
+        },
+        {
+            "id_munic": "2804508",
+            "nomemun": "Nossa Senhora da Gl�ria",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "63.4840871021776"
+        },
+        {
+            "id_munic": "2804607",
+            "nomemun": "Nossa Senhora das Dores",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "82.5581395348837"
+        },
+        {
+            "id_munic": "2804706",
+            "nomemun": "Nossa Senhora de Lourdes",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "83.8383838383838"
+        },
+        {
+            "id_munic": "2804805",
+            "nomemun": "Nossa Senhora do Socorro",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "76.0123647604328"
+        },
+        {
+            "id_munic": "2804904",
+            "nomemun": "Pacatuba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "72.3404255319149"
+        },
+        {
+            "id_munic": "2805000",
+            "nomemun": "Pedra Mole",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "52.2727272727273"
+        },
+        {
+            "id_munic": "2805109",
+            "nomemun": "Pedrinhas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "75"
+        },
+        {
+            "id_munic": "2805208",
+            "nomemun": "Pinh�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "69.7368421052632"
+        },
+        {
+            "id_munic": "2805307",
+            "nomemun": "Pirambu",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "70.4819277108434"
+        },
+        {
+            "id_munic": "2805406",
+            "nomemun": "Po�o Redondo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "61.7216117216117"
+        },
+        {
+            "id_munic": "2805505",
+            "nomemun": "Po�o Verde",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "95.1557093425606"
+        },
+        {
+            "id_munic": "2805604",
+            "nomemun": "Porto da Folha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "72.8682170542636"
+        },
+        {
+            "id_munic": "2805703",
+            "nomemun": "Propri�",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "80.9523809523809"
+        },
+        {
+            "id_munic": "2805802",
+            "nomemun": "Riach�o do Dantas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "75"
+        },
+        {
+            "id_munic": "2805901",
+            "nomemun": "Riachuelo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "92.7272727272727"
+        },
+        {
+            "id_munic": "2806008",
+            "nomemun": "Ribeir�polis",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "63.8743455497382"
+        },
+        {
+            "id_munic": "2806107",
+            "nomemun": "Ros�rio do Catete",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "80.327868852459"
+        },
+        {
+            "id_munic": "2806206",
+            "nomemun": "Salgado",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "75.3472222222222"
+        },
+        {
+            "id_munic": "2806305",
+            "nomemun": "Santa Luzia do Itanhy",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "96.1702127659574"
+        },
+        {
+            "id_munic": "2806503",
+            "nomemun": "Santa Rosa de Lima",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "62.5"
+        },
+        {
+            "id_munic": "2806404",
+            "nomemun": "Santana do S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "52.0661157024793"
+        },
+        {
+            "id_munic": "2806602",
+            "nomemun": "Santo Amaro das Brotas",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "94.6428571428571"
+        },
+        {
+            "id_munic": "2806701",
+            "nomemun": "S�o Crist�v�o",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "77.8533635676493"
+        },
+        {
+            "id_munic": "2806800",
+            "nomemun": "S�o Domingos",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "61.6883116883117"
+        },
+        {
+            "id_munic": "2806909",
+            "nomemun": "S�o Francisco",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "75"
+        },
+        {
+            "id_munic": "2807006",
+            "nomemun": "S�o Miguel do Aleixo",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "58.8235294117647"
+        },
+        {
+            "id_munic": "2807105",
+            "nomemun": "Sim�o Dias",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "86.744966442953"
+        },
+        {
+            "id_munic": "2807204",
+            "nomemun": "Siriri",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807303",
+            "nomemun": "Telha",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "75.9259259259259"
+        },
+        {
+            "id_munic": "2807402",
+            "nomemun": "Tobias Barreto",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "82.378223495702"
+        },
+        {
+            "id_munic": "2807501",
+            "nomemun": "Tomar do Geru",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "2807600",
+            "nomemun": "Umba�ba",
+            "id_estado": "28",
+            "estado_abrev": "SE",
+            "ano": "2019",
+            "cob_vac_bcg": "77.8048780487805"
+        }
+    ]
+}

@@ -1,0 +1,4164 @@
+{
+    "data": [
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "66.8316831683168"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "54.1379310344828"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "90.9090909090909"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "57.8313253012048"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "36.4102564102564"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "30.952380952381"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "91.1764705882353"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "88.9400921658986"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "65.9340659340659"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "43.4426229508197"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "84.2364532019704"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "79.9621928166352"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "86.0759493670886"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "65.8119658119658"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "86.6666666666667"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "68.6131386861314"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "83.6134453781513"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "90.295358649789"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "93.4725848563969"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "55.1020408163265"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "63.75"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "70.8333333333333"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "98"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "74.468085106383"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "98.0222496909765"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "93.0434782608696"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "28.0487804878049"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "99.2105263157895"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "69.2307692307692"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "36.5384615384615"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "47.5728155339806"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "56.701030927835"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2010",
+            "cob_vac_bcg": "88.0028735632184"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "98.9717223650386"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "76.7326732673267"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "54.8275862068966"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "80"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "44.578313253012"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "96.5857359635812"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "26.1538461538462"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "17.2619047619048"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "90.8424908424908"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "77.8688524590164"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "95.6349206349206"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "62.0689655172414"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "31.758034026465"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "55.5555555555556"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "95.5223880597015"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "80.9756097560976"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "77.3722627737226"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "81.0126582278481"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "85.1174934725849"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "62.2448979591837"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "93.0434782608696"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "91.25"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "71.1111111111111"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "75.7575757575758"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "56"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "38.2978723404255"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "63.4782608695652"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "56.0975609756098"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "83.6842105263158"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "82.0224719101124"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "88.4615384615385"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "51.2820512820513"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "52.4271844660194"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "56.701030927835"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2011",
+            "cob_vac_bcg": "92.3132183908046"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "86.6323907455013"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "69.3069306930693"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "65.1724137931034"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "92.1397379912664"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "65.4545454545455"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "53.0120481927711"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "93.3232169954477"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "32.8205128205128"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "13.3928571428571"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "82.3529411764706"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "54.5787545787546"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "27.0491803278689"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "82.1428571428571"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "56.6502463054187"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "82.6086956521739"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "33.3333333333333"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "89.1056910569106"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "35.036496350365"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "86.1344537815126"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "64.1350210970464"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "86.9451697127937"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "79.5918367346939"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "47.8260869565217"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "51.25"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "55.5555555555556"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "42.4242424242424"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "58"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "59.5744680851064"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "40"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "21.9512195121951"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "67.1052631578947"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "75.8426966292135"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "69.2307692307692"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "38.4615384615385"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "72.1854304635762"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "56.3106796116505"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "41.2371134020619"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2012",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "61.3065326633166"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "8.5427135678392"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "64.5522388059701"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "70"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "69.1176470588235"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "36.1111111111111"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "49.5238095238095"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "0"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "50"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "59.0717299578059"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "24.4897959183673"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "57.5892857142857"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "71.5725806451613"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "34.3065693430657"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "89.8066783831283"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "17.5"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "79.6536796536797"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "91.8088737201365"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "72.7272727272727"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "11.4285714285714"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "17.6470588235294"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "18.9189189189189"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "74.7368421052632"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "30.4347826086957"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "60"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "33.0188679245283"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "8.33333333333333"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "97.1698113207547"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "62.3595505617978"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "88.4892086330935"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "87.5"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "93.1034482758621"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2013",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "79.2746113989637"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "7.40740740740741"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "92.7835051546392"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "55.7377049180328"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "51.8292682926829"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "38.1395348837209"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "0"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "96.734693877551"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "4.23728813559322"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "87.8504672897196"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "7.75862068965517"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "91.9254658385093"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "98.5294117647059"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "35.9649122807018"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "87.8228782287823"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "25"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "90.0369003690037"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "12"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "14.2857142857143"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "1.96078431372549"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "97.9423868312757"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "34.8837209302326"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "58.5365853658537"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "16.1016949152542"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "7.8125"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "90.5263157894737"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "99.3150684931507"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "75.9036144578313"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2014",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "62.0418848167539"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "41.7177914110429"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "83.4123222748815"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "92.2727272727273"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "13.5135135135135"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "73.015873015873"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "30.6010928961749"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "40"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "0"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "83.7638376383764"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "12.0253164556962"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "23.828125"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "6.89655172413793"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "43.0894308943089"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "56.7307692307692"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "80.5755395683453"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "42.6858513189448"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "35.2459016393443"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "45.4545454545455"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "9.52380952380952"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "44.9612403100775"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "61.5384615384615"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "54.0816326530612"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "74.0845070422535"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "93.3333333333333"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "94.3820224719101"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "52.3364485981308"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2015",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "48.9736070381232"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "19.7674418604651"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "59.0551181102362"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "95.6521739130435"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "29.3333333333333"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "63.7931034482759"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "25.9668508287293"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "22.2972972972973"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "0"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "57.429718875502"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "14.5569620253165"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "20.1465201465201"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "15.2"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "64.4194756554307"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "77.5"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "41.2371134020619"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "59.7633136094675"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "57.9439252336449"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "44.9411764705882"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "17.2043010752688"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "24.4897959183673"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "16.2162162162162"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "59.5744680851064"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "52.7777777777778"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "31.0679611650485"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "49.1525423728814"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "29.6875"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2016",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "82.6979472140763"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "27.906976744186"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "49.6062992125984"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "69.0217391304348"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "88.3870967741936"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "36"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "84.4827586206897"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "49.7237569060773"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "40.8783783783784"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "15.2173913043478"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "85.140562248996"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "91.7721518987342"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "42.4908424908425"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "65.1685393258427"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "76.6666666666667"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "93.3333333333333"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "80.8695652173913"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "37.1134020618557"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "71.4003944773175"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "80.3738317757009"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "62.043795620438"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "65.1960784313726"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "77.5590551181102"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "49.6470588235294"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "79.5698924731183"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "73.1454005934718"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "71.4285714285714"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "91.5762953225983"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "75.4325259515571"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "52.4271844660194"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "64.84375"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2017",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "64.8809523809524"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "80.9090909090909"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "88.5542168674699"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "32.8767123287671"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "88.8888888888889"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "47.0430107526882"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "25.4545454545455"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "71.4828897338403"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "41.8300653594771"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "25.1121076233184"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "98.3402489626556"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "89.3004115226338"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "83.9285714285714"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "89.1472868217054"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "99.5951417004049"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "77.4193548387097"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "89.1304347826087"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "70.0729927007299"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "97.8947368421053"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "81.7857142857143"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "88"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "79.47973522239"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "67.8571428571429"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "98.8304093567251"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "71.9298245614035"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "90.7407407407407"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "84.9180327868852"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "73.0994152046784"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "82.6666666666667"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "76.3636363636364"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2018",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100015",
+            "nomemun": "Alta Floresta D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "99.7175141242938"
+        },
+        {
+            "id_munic": "1100379",
+            "nomemun": "Alto Alegre dos Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "65.1162790697674"
+        },
+        {
+            "id_munic": "1100403",
+            "nomemun": "Alto Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "90.9090909090909"
+        },
+        {
+            "id_munic": "1100346",
+            "nomemun": "Alvorada D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "93.2584269662921"
+        },
+        {
+            "id_munic": "1100023",
+            "nomemun": "Ariquemes",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "98.2018561484919"
+        },
+        {
+            "id_munic": "1100452",
+            "nomemun": "Buritis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100031",
+            "nomemun": "Cabixi",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "17.910447761194"
+        },
+        {
+            "id_munic": "1100601",
+            "nomemun": "Cacaul�ndia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100049",
+            "nomemun": "Cacoal",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100700",
+            "nomemun": "Campo Novo de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "52.8735632183908"
+        },
+        {
+            "id_munic": "1100809",
+            "nomemun": "Candeias do Jamari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "38.2871536523929"
+        },
+        {
+            "id_munic": "1100908",
+            "nomemun": "Castanheiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "41.025641025641"
+        },
+        {
+            "id_munic": "1100056",
+            "nomemun": "Cerejeiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "44.043321299639"
+        },
+        {
+            "id_munic": "1100924",
+            "nomemun": "Chupinguaia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "24.8520710059172"
+        },
+        {
+            "id_munic": "1100064",
+            "nomemun": "Colorado do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "19.7530864197531"
+        },
+        {
+            "id_munic": "1100072",
+            "nomemun": "Corumbiara",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "50.5747126436782"
+        },
+        {
+            "id_munic": "1100080",
+            "nomemun": "Costa Marques",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100940",
+            "nomemun": "Cujubim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100098",
+            "nomemun": "Espig�o D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "71.4821763602251"
+        },
+        {
+            "id_munic": "1101005",
+            "nomemun": "Governador Jorge Teixeira",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "99.0825688073395"
+        },
+        {
+            "id_munic": "1100106",
+            "nomemun": "Guajar�-Mirim",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "85.3919239904988"
+        },
+        {
+            "id_munic": "1101104",
+            "nomemun": "Itapu� do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100114",
+            "nomemun": "Jaru",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100122",
+            "nomemun": "Ji-Paran�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "96.2926829268293"
+        },
+        {
+            "id_munic": "1100130",
+            "nomemun": "Machadinho D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "86.6369710467706"
+        },
+        {
+            "id_munic": "1101203",
+            "nomemun": "Ministro Andreazza",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "46"
+        },
+        {
+            "id_munic": "1101302",
+            "nomemun": "Mirante da Serra",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101401",
+            "nomemun": "Monte Negro",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100148",
+            "nomemun": "Nova Brasil�ndia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100338",
+            "nomemun": "Nova Mamor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "67.7618069815195"
+        },
+        {
+            "id_munic": "1101435",
+            "nomemun": "Nova Uni�o",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "80.8510638297872"
+        },
+        {
+            "id_munic": "1100502",
+            "nomemun": "Novo Horizonte do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100155",
+            "nomemun": "Ouro Preto do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "91.522491349481"
+        },
+        {
+            "id_munic": "1101450",
+            "nomemun": "Parecis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "78.4313725490196"
+        },
+        {
+            "id_munic": "1100189",
+            "nomemun": "Pimenta Bueno",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "88.9430894308943"
+        },
+        {
+            "id_munic": "1101468",
+            "nomemun": "Pimenteiras do Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "36.5384615384615"
+        },
+        {
+            "id_munic": "1100205",
+            "nomemun": "Porto Velho",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "79.4886363636364"
+        },
+        {
+            "id_munic": "1100254",
+            "nomemun": "Presidente M�dici",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "94.8096885813149"
+        },
+        {
+            "id_munic": "1101476",
+            "nomemun": "Primavera de Rond�nia",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "68.2539682539683"
+        },
+        {
+            "id_munic": "1100262",
+            "nomemun": "Rio Crespo",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "97.9591836734694"
+        },
+        {
+            "id_munic": "1100288",
+            "nomemun": "Rolim de Moura",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "56.4901349948079"
+        },
+        {
+            "id_munic": "1100296",
+            "nomemun": "Santa Luzia D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "53.5714285714286"
+        },
+        {
+            "id_munic": "1101484",
+            "nomemun": "S�o Felipe D'Oeste",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "65.3333333333333"
+        },
+        {
+            "id_munic": "1101492",
+            "nomemun": "S�o Francisco do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "82.2822822822823"
+        },
+        {
+            "id_munic": "1100320",
+            "nomemun": "S�o Miguel do Guapor�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "89.247311827957"
+        },
+        {
+            "id_munic": "1101500",
+            "nomemun": "Seringueiras",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "66.4893617021277"
+        },
+        {
+            "id_munic": "1101559",
+            "nomemun": "Teixeir�polis",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101609",
+            "nomemun": "Theobroma",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "62.3287671232877"
+        },
+        {
+            "id_munic": "1101708",
+            "nomemun": "Urup�",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101757",
+            "nomemun": "Vale do Anari",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1101807",
+            "nomemun": "Vale do Para�so",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        },
+        {
+            "id_munic": "1100304",
+            "nomemun": "Vilhena",
+            "id_estado": "11",
+            "estado_abrev": "RO",
+            "ano": "2019",
+            "cob_vac_bcg": "100"
+        }
+    ]
+}
