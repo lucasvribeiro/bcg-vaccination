@@ -1,0 +1,12 @@
+.ant-card-body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.ant-card-body::before,
+.ant-card-body::after {
+  display: none !important;
+}
