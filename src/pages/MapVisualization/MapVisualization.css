@@ -72,12 +72,11 @@ path:hover {
 
 .popup {
   font-size: 1.2rem;
-  width: fit-content;
-  min-width: 200px;
+  width: 200px;
   padding: 12px 24px;
   background-color: #fff;
   border-radius: 5px;
-  height: fit-content;
+  height: 120px;
   position: absolute;
   display: none;
   -webkit-box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
@@ -89,7 +88,7 @@ path:hover {
 }
 
 .popup-title {
-  font-size: 1rem;
+  font-size: 0.8rem;
   padding-bottom: 8px;
   border-bottom: 1px solid #dddddd;
 }
@@ -133,5 +132,11 @@ path:hover {
   .side-title {
     font-size: 1.5rem;
     margin-top: 24px;
+  }
+
+  .popup {
+    font-size: 1.2rem;
+    width: 160px;
+    height: 100px;
   }
 }

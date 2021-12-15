@@ -60,8 +60,26 @@ const MapVisualization = () => {
       const hoveredCity = data.filter((d) => d.id_munic === e.target.id)[0];
 
       if (hoveredCity) {
-        popup.style.top = `${e.pageY + 20}px`;
-        popup.style.left = `${e.pageX + 20}px`;
+        if (e.pageY + 280 > e.view.screen.availHeight) {
+          popup.style.top = `${e.pageY - 120}px`;
+        } else {
+          popup.style.top = `${e.pageY + 15}px`;
+        }
+
+        if (e.view.screen.availWidth < 900) {
+          if (e.pageX + 180 > e.view.screen.availWidth) {
+            popup.style.left = `${e.pageX - 140}px`;
+          } else {
+            popup.style.left = `${e.pageX + 10}px`;
+          }
+        } else {
+          if (e.pageX + 240 > e.view.screen.availWidth) {
+            popup.style.left = `${e.pageX - 220}px`;
+          } else {
+            popup.style.left = `${e.pageX + 15}px`;
+          }
+        }
+
         popup.classList.add("visible");
 
         setHoveredCity(data.filter((d) => d.id_munic === e.target.id)[0]);
@@ -96,7 +114,8 @@ const MapVisualization = () => {
       <div>
         <h2 className="map-title">
           Mapa coroplético de vacinação BCG em:{" "}
-          {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} no ano de {year}.
+          {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} no ano de{" "}
+          {year}.
         </h2>
         {map && (
           <div
