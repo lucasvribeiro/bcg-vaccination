@@ -73,10 +73,12 @@ const MapVisualization = () => {
   useEffect(() => {
     getDataFromJson();
     getMapFromApi();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     if (map) fillMapColors();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [map]);
 
   return (

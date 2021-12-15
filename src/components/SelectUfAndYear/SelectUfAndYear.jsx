@@ -2,6 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import { Select, Button } from "antd";
 import styled from "styled-components";
+import { EnvironmentOutlined } from "@ant-design/icons";
 
 const { Option } = Select;
 
@@ -10,10 +11,15 @@ const MySelect = styled(Select)`
   margin-bottom: 24px;
 `;
 
+const MyButton = styled(Button)`
+  width: 100%;
+  margin-top: 24px;
+`;
+
 const SelectUfAndYear = (props) => {
   return (
     <>
-      <div style={{marginBottom: '24px'}}>
+      <div style={{ marginBottom: "24px" }}>
         <h2> Selecione o Estado (UF):</h2>
 
         <MySelect
@@ -43,10 +49,14 @@ const SelectUfAndYear = (props) => {
         </MySelect>
       </div>
 
-      <Link to={{pathname: `/map/${props.uf}/${props.year}`, teste: 'aa'}}>
-        <Button type="primary" size="large">
-          Visualizar Mapa
-        </Button>
+      <Link to={`/map/${props.uf}/${props.year}`}>
+        <MyButton
+          type="primary"
+          size="large"
+          disabled={!props.uf || !props.year}
+        >
+          Visualizar Mapa <EnvironmentOutlined />
+        </MyButton>
       </Link>
     </>
   );
