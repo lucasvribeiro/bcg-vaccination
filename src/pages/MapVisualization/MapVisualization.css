@@ -1,55 +1,105 @@
+.map-page {
+  display: flex;
+}
+
+.side-menu {
+  width: 30vw;
+  height: 100vh;
+  -webkit-box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
+  box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
+}
+
+.map-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 20vh;
+}
+
+.map-container {
+  text-align: center;
+  width: 70vw;
+}
+
+.map-container svg {
+  width: 70vw;
+  height: 70vh;
+}
+
 .map-color-10 {
-    fill: #C2DBFF;
+  fill: #c2dbff;
 }
 
 .map-color-20 {
-    fill: #95C1FF;
+  fill: #95c1ff;
 }
 
 .map-color-30 {
-    fill: #68A7FF;
+  fill: #68a7ff;
 }
 
 .map-color-40 {
-    fill: #3B8DFF;
+  fill: #3b8dff;
 }
 
 .map-color-50 {
-    fill: #0E73FF;
+  fill: #0e73ff;
 }
 
 .map-color-60 {
-    fill: #005DE0;
+  fill: #005de0;
 }
 
 .map-color-70 {
-    fill: #004BB4;
+  fill: #004bb4;
 }
 
 .map-color-80 {
-    fill: #003887;
+  fill: #003887;
 }
 
 .map-color-90 {
-    fill: #00255A;
+  fill: #00255a;
 }
 .map-color-100 {
-    fill: #00132D;
+  fill: #00132d;
 }
 
 path:hover {
-    fill: hotpink;
+  fill: #1eb95a;
+  transition: 0.2s;
 }
 
 .popup {
-    font-size: 1.2rem;
-    width: 280px;
-    padding: 24px;
-    background-color: #fff;
-    border: 1px solid black;
-    border-radius: 8px;
-    height: 100px;
-    position: absolute;
-    /* top: 50%;
-    left: 50%; */
+  font-size: 1.2rem;
+  width: fit-content;
+  min-width: 200px;
+  padding: 12px 24px;
+  background-color: #fff;
+  border-radius: 5px;
+  height: fit-content;
+  position: absolute;
+  display: none;
+  -webkit-box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
+  box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
+}
+
+.visible {
+  display: inline;
+}
+
+.popup-title {
+  font-size: 1rem;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.popup-content {
+  font-weight: bold;
+}
+
+.side-title {
+  font-size: 2rem;
+  text-align: center;
+  margin-top: 24px;
 }
