@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import App from "./App";
+// import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 
 import InitialPage from "./pages/InitialPage/InitialPage.jsx";
@@ -14,7 +14,7 @@ ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<App />} />
+        <Route path="/" element={<InitialPage />} />
           <Route path="initial" element={<InitialPage />} />
           <Route path="map/:uf/:year" element={<MapVisualization />} />
       </Routes>
