@@ -1,6 +1,7 @@
+import { LeftCircleOutlined } from "@ant-design/icons";
 import axios from "axios";
 import React, { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { Link, useParams } from "react-router-dom";
 
 import ufsList from "../../services/ufs.json";
 
@@ -73,26 +74,29 @@ const MapVisualization = () => {
   useEffect(() => {
     getDataFromJson();
     getMapFromApi();
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   useEffect(() => {
     if (map) fillMapColors();
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [map]);
 
   return (
     <div className="map-page">
       <div className="side-menu">
         <p className="side-title">
+          <Link to={"/initial"}>
+            <LeftCircleOutlined /> &nbsp;&nbsp;
+          </Link>
           {uf} - {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} |{" "}
           {year}
         </p>
       </div>
       <div>
         <h2 className="map-title">
-          Mapa coroplético de vacinação BCG no Estado do{" "}
-          {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} em {year}.
+          Mapa coroplético de vacinação BCG em:{" "}
+          {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} no ano de {year}.
         </h2>
         {map && (
           <div

@@ -99,7 +99,39 @@ path:hover {
 }
 
 .side-title {
-  font-size: 2rem;
+  font-size: 1.8rem;
+  font-weight: bold;
   text-align: center;
   margin-top: 24px;
+}
+
+@media only screen and (max-width: 900px) {
+  .map-container {
+    padding: 0;
+    width: 100vw;
+  }
+
+  .map-container svg {
+    width: 90vw;
+    height: auto;
+  }
+
+  .map-page {
+    flex-direction: column;
+  }
+
+  .side-menu {
+    width: 100vw;
+    height: fit-content;
+  }
+
+  .map-title {
+    margin: 16px 32px 0 32px;
+    text-align: center;
+  }
+
+  .side-title {
+    font-size: 1.5rem;
+    margin-top: 24px;
+  }
 }
