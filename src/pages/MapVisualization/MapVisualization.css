@@ -1,0 +1,55 @@
+.map-color-10 {
+    fill: #C2DBFF;
+}
+
+.map-color-20 {
+    fill: #95C1FF;
+}
+
+.map-color-30 {
+    fill: #68A7FF;
+}
+
+.map-color-40 {
+    fill: #3B8DFF;
+}
+
+.map-color-50 {
+    fill: #0E73FF;
+}
+
+.map-color-60 {
+    fill: #005DE0;
+}
+
+.map-color-70 {
+    fill: #004BB4;
+}
+
+.map-color-80 {
+    fill: #003887;
+}
+
+.map-color-90 {
+    fill: #00255A;
+}
+.map-color-100 {
+    fill: #00132D;
+}
+
+path:hover {
+    fill: hotpink;
+}
+
+.popup {
+    font-size: 1.2rem;
+    width: 280px;
+    padding: 24px;
+    background-color: #fff;
+    border: 1px solid black;
+    border-radius: 8px;
+    height: 100px;
+    position: absolute;
+    /* top: 50%;
+    left: 50%; */
+}

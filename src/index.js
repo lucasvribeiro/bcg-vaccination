@@ -16,7 +16,7 @@ ReactDOM.render(
       <Routes>
         <Route path="/" element={<App />} />
           <Route path="initial" element={<InitialPage />} />
-          <Route path="map" element={<MapVisualization />} />
+          <Route path="map/:uf/:year" element={<MapVisualization />} />
       </Routes>
     </BrowserRouter>
   </React.StrictMode>,
