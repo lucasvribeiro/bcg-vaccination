@@ -17,4 +17,4 @@ A web application to show BCG vaccination progress in Brazilian municipalities.
 3. `npm i` or `npm install`
 4. `npm start`
 
-### Created by [Lucas Vinicius Ribeiro](https://github.com/lucasvribeiro).
+### 🙅‍♂️ Created by [Lucas Vinicius Ribeiro](https://github.com/lucasvribeiro).
