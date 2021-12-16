@@ -1,7 +1,9 @@
-import { LeftCircleOutlined } from "@ant-design/icons";
+import { LeftCircleOutlined } from "@ant-design/icons/lib/icons";
 import axios from "axios";
 import React, { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
+
+import SideMenu from "../../components/SideMenu/SideMenu";
 
 import ufsList from "../../services/ufs.json";
 
@@ -102,15 +104,20 @@ const MapVisualization = () => {
 
   return (
     <div className="map-page">
-      <div className="side-menu">
-        <p className="side-title">
-          <Link to={"/initial"}>
-            <LeftCircleOutlined /> &nbsp;&nbsp;
-          </Link>
-          {uf} - {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} |{" "}
-          {year}
-        </p>
-      </div>
+      <SideMenu
+        year={year}
+        uf={uf}
+        title={
+          <>
+            <Link to={"/initial"}>
+              <LeftCircleOutlined /> &nbsp;&nbsp;
+            </Link>
+            {uf} - {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} |{" "}
+            {year}
+          </>
+        }
+      />
+
       <div>
         <h2 className="map-title">
           Mapa coroplético de vacinação BCG em:{" "}
@@ -125,7 +132,6 @@ const MapVisualization = () => {
           />
         )}
       </div>
-
       <div className="popup" id="popup">
         <p className="popup-title">{hoveredCity?.nomemun}</p>
         <p className="popup-content">

@@ -2,13 +2,6 @@
   display: flex;
 }
 
-.side-menu {
-  width: 30vw;
-  height: 100vh;
-  -webkit-box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
-  box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
-}
-
 .map-title {
   display: flex;
   align-items: center;
@@ -98,13 +91,6 @@ path:hover {
   font-weight: bold;
 }
 
-.side-title {
-  font-size: 1.5rem;
-  font-weight: bold;
-  text-align: center;
-  margin: 24px;
-}
-
 @media only screen and (max-width: 900px) {
   .map-container {
     padding: 0;
@@ -118,11 +104,6 @@ path:hover {
 
   .map-page {
     flex-direction: column;
-  }
-
-  .side-menu {
-    width: 100vw;
-    height: fit-content;
   }
 
   .map-title {
