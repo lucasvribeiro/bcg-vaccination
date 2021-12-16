@@ -2,13 +2,15 @@
 
 A web application to show BCG vaccination progress in Brazilian municipalities.
 
-### Stack used:
+### [🌍 DEMO](https://bcgvac.netlify.app/)
+
+### 📚 Stack Used:
 
 - React 17.0.2
 - npm 6.14.15
 - Node 14.18.1
 
-### Running Steps:
+### 🏃 Running Steps:
 
 1. `git clone https://github.com/lucasvribeiro/bcg-vaccination.git`
 2. `cd bcg-vaccination`
