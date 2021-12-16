@@ -25,6 +25,12 @@ const SideMenuTitle = styled.p`
 const SideMenuContent = styled.div`
   text-align: center;
   margin: 56px 24px 12px 24px;
+
+  @media only screen and (max-width: 600px) {
+     {
+      margin: 24px 24px 12px 24px;
+    }
+  }
 `;
 
 const SideMenu = (props) => {

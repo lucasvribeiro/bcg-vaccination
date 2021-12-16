@@ -81,25 +81,33 @@ const MapVisualization = () => {
 
         e.target.classList.add("selected-city");
         var rect = e.target.getBoundingClientRect();
-        console.log(rect.top, rect.right);
+        console.log(rect.top, rect.left);
 
-        if (rect.top + 280 > e.view.screen.availHeight) {
-          popup.style.top = `${rect.top - 120}px`;
+        if (e.view.screen.availWidth < 900) {
+          if (rect.top + 180 > e.view.screen.availHeight) {
+            popup.style.top = `${rect.top - 20}px`;
+          } else {
+            popup.style.top = `${rect.top + 160}px`;
+          }
         } else {
-          popup.style.top = `${rect.top + 15}px`;
+          if (rect.top + 280 > e.view.screen.availHeight) {
+            popup.style.top = `${rect.top - 70}px`;
+          } else {
+            popup.style.top = `${rect.top + 15}px`;
+          }
         }
 
         if (e.view.screen.availWidth < 900) {
-          if (rect.right + 180 > e.view.screen.availWidth) {
-            popup.style.left = `${rect.right - 140}px`;
+          if (rect.left + 180 > e.view.screen.availWidth) {
+            popup.style.left = `${rect.left - 160}px`;
           } else {
-            popup.style.left = `${rect.right + 10}px`;
+            popup.style.left = `${rect.left + 10}px`;
           }
         } else {
-          if (rect.right + 240 > e.view.screen.availWidth) {
-            popup.style.left = `${rect.right - 220}px`;
+          if (rect.left + 360 > e.view.screen.availWidth) {
+            popup.style.left = `${rect.left - 220}px`;
           } else {
-            popup.style.left = `${rect.right + 15}px`;
+            popup.style.left = `${rect.left + 60}px`;
           }
         }
 
@@ -115,7 +123,9 @@ const MapVisualization = () => {
   }
 
   function handleSelectChanged(e) {
-    const city = document.getElementById(e);
+    const city = document.getElementById(
+      data.filter((d) => d.nomemun === e)[0].id_munic
+    );
 
     var event = new MouseEvent("mouseover", {
       view: window,
@@ -167,7 +177,7 @@ const MapVisualization = () => {
                 {data &&
                   data.map((city) => {
                     return (
-                      <Option value={city.id_munic} key={city.id_munic}>
+                      <Option value={city.nomemun} key={city.id_munic}>
                         {city.nomemun}
                       </Option>
                     );
