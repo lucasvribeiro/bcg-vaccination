@@ -1,7 +1,13 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
+import BackgroundSlider from "react-background-slider";
 
 import StyledCard from "../../components/StyledCard/StyledCard";
 import SelectUfAndYear from "../../components/SelectUfAndYear/SelectUfAndYear";
+
+import background01 from "../../images/background-01.jpg";
+import background02 from "../../images/background-02.jpg";
+import background03 from "../../images/background-03.jpg";
+import background04 from "../../images/background-04.jpg";
 
 import vaccineImg from "../../images/vaccine.png";
 import ufsList from "../../services/ufs.json";
@@ -14,20 +20,14 @@ const InitialPage = () => {
   const [uf, setUf] = useState();
   const [year, setYear] = useState();
 
-  useEffect(() => {
-    console.log(uf);
-  }, [uf]);
-
   return (
-    <div
-      style={{
-        backgroundColor: "#fff",
-        height: "100vh",
-        display: "flex",
-        flexDirection: "column",
-        alignItems: "center",
-      }}
-    >
+    <div className="initial-page">
+      <BackgroundSlider
+        images={[background01, background02, background03, background04]}
+        duration={8}
+        transition={2}
+      />
+
       <div className="header">
         <img src={vaccineImg} alt="Vaccine Icon" />
         <h1>&nbsp; Vacinação BCG no Brasil </h1>
