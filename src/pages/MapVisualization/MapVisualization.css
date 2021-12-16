@@ -1,5 +1,6 @@
 .map-page {
   display: flex;
+  height: 100vh;
 }
 
 .map-title {
@@ -12,7 +13,7 @@
 
 .map-container {
   width: 70vw;
-  height: 80vh;
+  height: 100vh;
 }
 
 .map-container svg {
@@ -95,6 +96,7 @@ path:hover {
   .map-container {
     padding: 0;
     width: 100vw;
+    height: fit-content;
   }
 
   .map-container svg {

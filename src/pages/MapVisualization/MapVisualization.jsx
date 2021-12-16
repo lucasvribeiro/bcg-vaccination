@@ -1,6 +1,7 @@
-import { LeftCircleOutlined } from "@ant-design/icons/lib/icons";
-import axios from "axios";
 import React, { useState, useEffect } from "react";
+import { LeftCircleOutlined } from "@ant-design/icons/lib/icons";
+import { Spin } from "antd";
+import axios from "axios";
 import { Link, useParams } from "react-router-dom";
 
 import SideMenu from "../../components/SideMenu/SideMenu";
@@ -13,6 +14,7 @@ const MapVisualization = () => {
   const [data, setData] = useState();
   const [map, setMap] = useState();
   const [hoveredCity, setHoveredCity] = useState();
+  const [loading, setLoading] = useState(true);
 
   const uf = useParams().uf;
   const year = useParams().year;
@@ -54,6 +56,8 @@ const MapVisualization = () => {
       else if (bcgValue < 90) city.classList.add("map-color-90");
       else city.classList.add("map-color-100");
     }
+
+    setLoading(false);
   }
 
   function handleCityHover(e) {
@@ -103,42 +107,43 @@ const MapVisualization = () => {
   }, [map]);
 
   return (
-    <div className="map-page">
-      <SideMenu
-        year={year}
-        uf={uf}
-        title={
-          <>
-            <Link to={"/initial"}>
-              <LeftCircleOutlined /> &nbsp;&nbsp;
-            </Link>
-            {uf} - {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} |{" "}
-            {year}
-          </>
-        }
-      />
+    <Spin spinning={loading} size="large">
+      <div className="map-page">
+        <SideMenu
+          year={year}
+          uf={uf}
+          title={
+            <>
+              <Link to={"/initial"}>
+                <LeftCircleOutlined /> &nbsp;&nbsp;
+              </Link>
+              {uf} - {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name}{" "}
+              | {year}
+            </>
+          }
+        />
 
-      <div>
-        <h2 className="map-title">
-          Mapa coroplético de vacinação BCG em:{" "}
-          {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} no ano de{" "}
-          {year}.
-        </h2>
-        {map && (
-          <div
-            onMouseOver={handleCityHover}
-            className="map-container"
-            dangerouslySetInnerHTML={{ __html: map }}
-          />
-        )}
+        <div className="map-container">
+          <h2 className="map-title">
+            Mapa coroplético de vacinação BCG em:{" "}
+            {ufsList.UF.filter((iterUF) => iterUF.abbr === uf)[0].name} no ano
+            de {year}.
+          </h2>
+          {map && (
+            <div
+              onMouseOver={handleCityHover}
+              dangerouslySetInnerHTML={{ __html: map }}
+            />
+          )}
+        </div>
+        <div className="popup" id="popup">
+          <p className="popup-title">{hoveredCity?.nomemun}</p>
+          <p className="popup-content">
+            {Number(hoveredCity?.cob_vac_bcg).toFixed(2)}%
+          </p>
+        </div>
       </div>
-      <div className="popup" id="popup">
-        <p className="popup-title">{hoveredCity?.nomemun}</p>
-        <p className="popup-content">
-          {Number(hoveredCity?.cob_vac_bcg).toFixed(2)}%
-        </p>
-      </div>
-    </div>
+    </Spin>
   );
 };
 
