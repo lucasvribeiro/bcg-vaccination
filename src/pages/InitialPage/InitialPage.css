@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  margin: 36px 12px;
+}
+
+.header img {
+  width: 36px;
+  height: 36px;
+}
+
+.header h1 {
+  border-left: 3px solid #ebebeb;
+  margin-left: 16px;
+  color: #1890ff;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 600px) {
+  .header {
+    margin: 48px 12px;
+  }
+
+  .header h1 {
+    font-size: 1.25rem !important;
+  }
+}

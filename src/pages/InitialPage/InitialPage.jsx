@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 import StyledCard from "../../components/StyledCard/StyledCard";
 import SelectUfAndYear from "../../components/SelectUfAndYear/SelectUfAndYear";
 
+import vaccineImg from "../../images/vaccine.png";
 import ufsList from "../../services/ufs.json";
 
 import "./InitialPage.css";
@@ -23,10 +24,15 @@ const InitialPage = () => {
         backgroundColor: "#fff",
         height: "100vh",
         display: "flex",
-        justifyContent: "center",
+        flexDirection: "column",
         alignItems: "center",
       }}
     >
+      <div className="header">
+        <img src={vaccineImg} alt="Vaccine Icon" />
+        <h1>&nbsp; Vacinação BCG no Brasil </h1>
+      </div>
+
       <StyledCard
         bordered={false}
         content={

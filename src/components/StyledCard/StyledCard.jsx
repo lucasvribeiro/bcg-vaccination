@@ -7,6 +7,7 @@ const MyCard = styled(Card)`
   max-width: 500px;
   height: 70vh;
   max-height: 700px;
+  min-height: 400px;
   border-radius: 8px;
   -webkit-box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
   box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
