@@ -1,4 +1,5 @@
 import { Card } from "antd";
+import PropTypes from "prop-types";
 import styled from "styled-components";
 
 const MyCard = styled(Card)`
@@ -23,6 +24,10 @@ const MyCard = styled(Card)`
 
 const StyledCard = (props) => {
   return <MyCard>{props.content}</MyCard>;
+};
+
+StyledCard.propTypes = {
+  content: PropTypes.any,
 };
 
 export default StyledCard;

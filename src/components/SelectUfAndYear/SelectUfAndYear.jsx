@@ -1,4 +1,4 @@
-import React from "react";
+import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 import { Select, Button } from "antd";
 import styled from "styled-components";
@@ -60,6 +60,15 @@ const SelectUfAndYear = (props) => {
       </Link>
     </>
   );
+};
+
+SelectUfAndYear.propTypes = {
+  ufsList: PropTypes.array.isRequired,
+  yearsList: PropTypes.array.isRequired,
+  uf: PropTypes.string.isRequired,
+  year: PropTypes.string.isRequired,
+  setUf: PropTypes.func.isRequired,
+  setYear: PropTypes.func.isRequired,
 };
 
 export default SelectUfAndYear;
