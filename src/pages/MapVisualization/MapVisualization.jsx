@@ -83,9 +83,10 @@ const MapVisualization = () => {
         var rect = e.target.getBoundingClientRect();
         console.log(rect.top, rect.left);
 
+        // Vertical position
         if (e.view.screen.availWidth < 900) {
           if (rect.top + 180 > e.view.screen.availHeight) {
-            popup.style.top = `${rect.top - 20}px`;
+            popup.style.top = `${rect.top - 60}px`;
           } else {
             popup.style.top = `${rect.top + 160}px`;
           }
@@ -97,6 +98,7 @@ const MapVisualization = () => {
           }
         }
 
+        // Horizontal Position
         if (e.view.screen.availWidth < 900) {
           if (rect.left + 180 > e.view.screen.availWidth) {
             popup.style.left = `${rect.left - 160}px`;
@@ -107,7 +109,7 @@ const MapVisualization = () => {
           if (rect.left + 360 > e.view.screen.availWidth) {
             popup.style.left = `${rect.left - 220}px`;
           } else {
-            popup.style.left = `${rect.left + 60}px`;
+            popup.style.left = `${rect.left + 160}px`;
           }
         }
 
