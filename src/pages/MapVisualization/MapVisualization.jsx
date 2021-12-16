@@ -1,4 +1,6 @@
 import React, { useState, useEffect } from "react";
+import { Select } from "antd";
+import styled from "styled-components";
 import { LeftCircleOutlined } from "@ant-design/icons/lib/icons";
 import { Spin } from "antd";
 import axios from "axios";
@@ -9,6 +11,13 @@ import SideMenu from "../../components/SideMenu/SideMenu";
 import ufsList from "../../services/ufs.json";
 
 import "./MapVisualization.css";
+
+const { Option } = Select;
+
+const MySelect = styled(Select)`
+  width: 100%;
+  margin-bottom: 24px;
+`;
 
 const MapVisualization = () => {
   const [data, setData] = useState();
@@ -66,33 +75,55 @@ const MapVisualization = () => {
       const hoveredCity = data.filter((d) => d.id_munic === e.target.id)[0];
 
       if (hoveredCity) {
-        if (e.pageY + 280 > e.view.screen.availHeight) {
-          popup.style.top = `${e.pageY - 120}px`;
+        // Remove if there is a previous city hovered.
+        const previous = document.getElementsByClassName("selected-city")[0];
+        if (previous) previous.classList.remove("selected-city");
+
+        e.target.classList.add("selected-city");
+        var rect = e.target.getBoundingClientRect();
+        console.log(rect.top, rect.right);
+
+        if (rect.top + 280 > e.view.screen.availHeight) {
+          popup.style.top = `${rect.top - 120}px`;
         } else {
-          popup.style.top = `${e.pageY + 15}px`;
+          popup.style.top = `${rect.top + 15}px`;
         }
 
         if (e.view.screen.availWidth < 900) {
-          if (e.pageX + 180 > e.view.screen.availWidth) {
-            popup.style.left = `${e.pageX - 140}px`;
+          if (rect.right + 180 > e.view.screen.availWidth) {
+            popup.style.left = `${rect.right - 140}px`;
           } else {
-            popup.style.left = `${e.pageX + 10}px`;
+            popup.style.left = `${rect.right + 10}px`;
           }
         } else {
-          if (e.pageX + 240 > e.view.screen.availWidth) {
-            popup.style.left = `${e.pageX - 220}px`;
+          if (rect.right + 240 > e.view.screen.availWidth) {
+            popup.style.left = `${rect.right - 220}px`;
           } else {
-            popup.style.left = `${e.pageX + 15}px`;
+            popup.style.left = `${rect.right + 15}px`;
           }
         }
 
         popup.classList.add("visible");
-
-        setHoveredCity(data.filter((d) => d.id_munic === e.target.id)[0]);
+        setHoveredCity(hoveredCity);
+        console.log(hoveredCity);
       } else {
         popup.classList.remove("visible");
+        const previous = document.getElementsByClassName("selected-city")[0];
+        if (previous) previous.classList.remove("selected-city");
       }
     }
+  }
+
+  function handleSelectChanged(e) {
+    const city = document.getElementById(e);
+
+    var event = new MouseEvent("mouseover", {
+      view: window,
+      bubbles: true,
+      cancelable: true,
+    });
+
+    city.dispatchEvent(event);
   }
 
   useEffect(() => {
@@ -121,6 +152,29 @@ const MapVisualization = () => {
               | {year}
             </>
           }
+          content={
+            <>
+              <p style={{ fontSize: "1rem" }}>
+                Selecione um Município para Visualizar:
+              </p>
+
+              <MySelect
+                showSearch
+                size="large"
+                placeholder="Município"
+                onChange={handleSelectChanged}
+              >
+                {data &&
+                  data.map((city) => {
+                    return (
+                      <Option value={city.id_munic} key={city.id_munic}>
+                        {city.nomemun}
+                      </Option>
+                    );
+                  })}
+              </MySelect>
+            </>
+          }
         />
 
         <div className="map-container">
@@ -131,11 +185,13 @@ const MapVisualization = () => {
           </h2>
           {map && (
             <div
+              style={{ textAlign: "center" }}
               onMouseOver={handleCityHover}
               dangerouslySetInnerHTML={{ __html: map }}
             />
           )}
         </div>
+
         <div className="popup" id="popup">
           <p className="popup-title">{hoveredCity?.nomemun}</p>
           <p className="popup-content">

@@ -1,3 +1,25 @@
+@media only screen and (max-width: 900px) {
+  .map-container svg {
+    width: 95vw !important;
+    height: fit-content !important;
+  }
+
+  .map-page {
+    flex-direction: column;
+  }
+
+  .map-title {
+    margin: 16px 32px 0 32px;
+    text-align: center;
+  }
+
+  .popup {
+    font-size: 1.2rem;
+    width: 160px;
+    height: 100px;
+  }
+}
+
 .map-page {
   display: flex;
   height: 100vh;
@@ -11,16 +33,44 @@
   margin-bottom: 0;
 }
 
-.map-container {
-  width: 70vw;
-  height: 100vh;
-}
-
 .map-container svg {
   width: 70vw;
   height: 78vh;
 }
 
+.selected-city {
+  fill: #1eb95a !important;
+  transition: 0.2s;
+}
+
+.popup {
+  font-size: 1.2rem;
+  width: 200px;
+  padding: 12px 24px;
+  background-color: #fff;
+  border-radius: 5px;
+  height: 120px;
+  position: absolute;
+  display: none;
+  -webkit-box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
+  box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
+}
+
+.visible {
+  display: inline;
+}
+
+.popup-title {
+  font-size: 0.8rem;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.popup-content {
+  font-weight: bold;
+}
+
+/* Map Colors Scheme */
 .map-color-10 {
   fill: #c2dbff;
 }
@@ -56,66 +106,7 @@
 .map-color-90 {
   fill: #00255a;
 }
+
 .map-color-100 {
   fill: #00132d;
-}
-
-path:hover {
-  fill: #1eb95a;
-  transition: 0.2s;
-}
-
-.popup {
-  font-size: 1.2rem;
-  width: 200px;
-  padding: 12px 24px;
-  background-color: #fff;
-  border-radius: 5px;
-  height: 120px;
-  position: absolute;
-  display: none;
-  -webkit-box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
-  box-shadow: 3px 6px 25px -5px rgba(0, 0, 0, 0.2);
-}
-
-.visible {
-  display: inline;
-}
-
-.popup-title {
-  font-size: 0.8rem;
-  padding-bottom: 8px;
-  border-bottom: 1px solid #dddddd;
-}
-
-.popup-content {
-  font-weight: bold;
-}
-
-@media only screen and (max-width: 900px) {
-  .map-container {
-    padding: 0;
-    width: 100vw;
-    height: fit-content;
-  }
-
-  .map-container svg {
-    width: 90vw;
-    height: auto;
-  }
-
-  .map-page {
-    flex-direction: column;
-  }
-
-  .map-title {
-    margin: 16px 32px 0 32px;
-    text-align: center;
-  }
-
-  .popup {
-    font-size: 1.2rem;
-    width: 160px;
-    height: 100px;
-  }
 }

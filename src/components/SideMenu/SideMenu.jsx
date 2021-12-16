@@ -22,10 +22,16 @@ const SideMenuTitle = styled.p`
   margin: 24px;
 `;
 
+const SideMenuContent = styled.div`
+  text-align: center;
+  margin: 56px 24px 12px 24px;
+`;
+
 const SideMenu = (props) => {
   return (
     <MySideMenu>
       <SideMenuTitle>{props.title}</SideMenuTitle>
+      <SideMenuContent>{props.content}</SideMenuContent>
     </MySideMenu>
   );
 };
